@@ -5,17 +5,17 @@ header:
   image_fullwidth: logo2.png
 widget1:
   title: "Collections Modules"
-  url: 'http://kam535.github.io/summer-dh-2025/collections/'
+  url: 'http://cornell-colab.github.io/2025-SummerDH/collections/'
   image: collx.png
   text: 'All of the lessons for the Collections group of fellows'
 widget2:
   title: "Text Modules"
-  url: 'http://kam535.github.io/summer-dh-2025/text/'
+  url: 'http://cornell-colab.github.io/2025-SummerDH/text/'
   image: comp-text.png
   text: 'All of the lessons for the Text group of fellows'
 widget3:
   title: "All Modules"
-  url: 'http://kam535.github.io/summer-dh-2025/modules/'
+  url: 'http://cornell-colab.github.io/2025-SummerDH/modules/'
   image: books-laptops.jpg
   text: 'All of the lessons for all fellows'
 permalink: /index.html
@@ -26,12 +26,12 @@ homepage: true
 
 # Program Schedule and Overview
 
-Welcome to Summer DH 2025! This page overviews details about the program and the [program schedule](https://github.com/cornell-colab/2024-SummerDH/blob/main/Program%20Schedule%20and%20Overview.md#schedule).
+Welcome to Summer DH 2025! This page overviews details about the program and the program schedule.
 
 ## (Digital) places we'll spend time
 
-* The overview for each workshop, and instructions for assignments and workshop prep, will appear on this [Summer DH 2024 GitHub repository](https://github.com/cornell-colab/2024-SummerDH/blob/main/Program%20Schedule%20and%20Overview.md).
-* The [discussion board](https://github.com/cornell-colab/2024-SummerDH/discussions) will be a private space to post reflections and comments. 
+* The overview for each workshop, and instructions for assignments and workshop prep, will appear on this [Summer DH 2025 GitHub repository](https://github.com/cornell-colab/2025-SummerDH).
+* The [discussion board](https://github.com/cornell-colab/2025-SummerDH/discussions) will be a private space to post reflections and comments. 
 * The [Fellows' Folder in Box](https://cornell.box.com/s/5m9lh7988fbn2ihnjxotm7y4fu0kzeih) for collaborative documents (used most often during some workshop sessions)
 
 ## Devices
