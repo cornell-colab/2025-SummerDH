@@ -2,7 +2,7 @@
 This site is a really basic Jekyll-powered static site, with a few JavaScript plugins for search and better content arrangement.
 
 ## Folder Structure
-- `_data`: includes a bunch of structure yml files, including the navigation file. If you need to change anything in the navbars, edit the `navigation.yml file.`
+- `_data`: includes a bunch of structure yml files, including the navigation file. If you need to change anything in the navbars, edit the `navigation.yml` file.
 - `_drafts`: storage folder for alternative page layouts, if needed.
 - `_includes`: holds all of the Jekyll includes (functional internal plugins, basically) for the site. **Exercise caution when editing.**
 - `_layouts`: includes the page layouts/templates. **Exercise caution when editing.**
