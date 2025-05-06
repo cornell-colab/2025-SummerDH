@@ -1,12 +1,12 @@
 ---
 layout: page
 subheadline: "June 12 and 13, 2025"
-title: "1:1 Meetings"
+title: "Exploring Text Analysis"
 header: false
 permalink: /text/day0/
 ---
 
-## Hour two (TEXT): Voyant Tools
+# Exploring Text Analysis
 
 ### Before the session
 #### 1. Read and watch:
