@@ -59,7 +59,7 @@
   side: left
   dropdown:
   - title: "Pre-SDH"
-    url: "/text/day0"
+    url: "/text/day0/"
   - title: "June 02"
     url: "/modules/day1/"
   - title: "June 03"
