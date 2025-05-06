@@ -1,0 +1,88 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Resources
+  side: left
+  dropdown:
+  - title: "List of Projects"
+    url: "https://digitalscholarship.library.cornell.edu/?p=1240"
+
+- title: "All"
+  url: "/modules/"
+  side: left
+  dropdown:
+  - title: "June 02"
+    url: "/modules/day1/"
+    dropdown:
+      - title: "Thing 1"
+        url: "/modules/day1/"
+      - title: "Thing 2"
+        url: "/modules/day1/"
+      
+  - title: "June 04"
+    url: "/modules/day3/"
+  - title: "June 06"
+    url: "/modules/day5/"
+  - title: "June 11"
+    url: "/modules/day8/"
+  - title: "June 13"
+    url: "/modules/day10/"
+
+- title: "Collections"
+  url: "/collections/"
+  side: left
+  dropdown:
+  - title: "June 02"
+    url: "/modules/day1/"
+  - title: "June 03"
+    url: "/collections/day2/"
+  - title: "June 04"
+    url: "/collections/day3/"
+  - title: "June 05"
+    url: "/collections/day4/"
+  - title: "June 06"
+    url: "/collections/day5/"
+  - title: "June 09"
+    url: "/collections/day6/"
+  - title: "June 10"
+    url: "/collections/day7/"
+  - title: "June 11"
+    url: "/modules/day8/"
+  - title: "June 12"
+    url: "/collections/day9/"
+  - title: "June 13"
+    url: "/modules/day10/"
+    
+- title: "Text"
+  url: "/text/"
+  side: left
+  dropdown:
+  - title: "June 02"
+    url: "/modules/day1/"
+  - title: "June 03"
+    url: "/text/day2/"
+  - title: "June 04"
+    url: "/text/day3/"
+  - title: "June 05"
+    url: "/text/day4/"
+  - title: "June 06"
+    url: "/text/day5/"
+  - title: "June 09"
+    url: "/text/day6/"
+  - title: "June 10"
+    url: "/text/day7/"
+  - title: "June 11"
+    url: "/modules/day8/"
+  - title: "June 12"
+    url: "/text/day9/"
+  - title: "June 13"
+    url: "/modules/day10/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "About"
+  url: "/about/"
+  side: right
