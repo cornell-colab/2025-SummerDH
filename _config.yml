@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Summer DH Test Webpage'
+title: 'Summer DH Webpage'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'a landing site for all things Summer DH 2025'
@@ -26,7 +26,7 @@ author: cornell-colab
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://cornell-colab'
-baseurl: '/summer-dh-2025'
+baseurl: '/2025-SummerDH'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
