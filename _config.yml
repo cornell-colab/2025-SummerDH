@@ -38,7 +38,7 @@ improve_content: https://github.com/cornell-colab/summer-dh-2025/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://cornell-colab.github.io/summer-dh-2025/images/'
+urlimg: 'https://cornell-colab.github.io/2025-SummerDH/images/'
 
 
 # Logo size is 600x80 pixels
