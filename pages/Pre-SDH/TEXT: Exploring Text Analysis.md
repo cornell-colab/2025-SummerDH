@@ -1,10 +1,3 @@
----
-layout: page
-subheadline: "June 12 and 13, 2025"
-title: "Exploring Text Analysis"
-header: false
-permalink: /text/day0/
----
 
 # Exploring Text Analysis
 
