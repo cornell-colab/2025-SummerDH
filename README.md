@@ -4,10 +4,10 @@ This site is a really basic Jekyll-powered static site, with a few JavaScript pl
 ## Folder Structure
 - `_data`: includes a bunch of structure yml files, including the navigation file. If you need to change anything in the navbars, edit the `navigation.yml file.`
 - `_drafts`: storage folder for alternative page layouts, if needed.
-- `_includes`: holds all of the Jekyll includes (functional internal plugins, basically) for the site. **Exercise aution when editing.**
-- `_layouts`: includes the page layouts/templates. **Exercise aution when editing.**
-- `_sass`: includes the individual stylesheets for the site, which are imported into the main css file in the assets folder. If you want to change the styling of something, change it in these files, not the main CSS file. **Exercise aution when editing.**
-- `_assets`: contains the main CSS and JavaScript for the site. **Exercise aution when editing.**
+- `_includes`: holds all of the Jekyll includes (functional internal plugins, basically) for the site. **Exercise caution when editing.**
+- `_layouts`: includes the page layouts/templates. **Exercise caution when editing.**
+- `_sass`: includes the individual stylesheets for the site, which are imported into the main css file in the assets folder. If you want to change the styling of something, change it in these files, not the main CSS file. **Exercise caution when editing.**
+- `_assets`: contains the main CSS and JavaScript for the site. **Exercise caution when editing.**
 - `images`: contains all images embedded in the site (the logo, card fronts, etc.)
 - `pages`: includes all content for the site, organized into subfolders by the date of the lesson.
 
