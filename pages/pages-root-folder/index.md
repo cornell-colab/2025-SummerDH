@@ -30,21 +30,21 @@ Welcome to Summer DH 2025! This page overviews details about the program and the
 
 ## (Digital) places we'll spend time
 
-* The overview for each workshop, and instructions for assignments and workshop prep, will appear on this [Summer DH 2025 GitHub repository](https://github.com/cornell-colab/2025-SummerDH).
+* The overview for each workshop, and instructions for assignments and workshop prep, will appear on this site.
 * The [discussion board](https://github.com/cornell-colab/2025-SummerDH/discussions) will be a private space to post reflections and comments. 
-* The [Fellows' Folder in Box](https://cornell.box.com/s/5m9lh7988fbn2ihnjxotm7y4fu0kzeih) for collaborative documents (used most often during some workshop sessions)
+* The [Fellows' Folder in Box](https://cornell.box.com/s/5m9lh7988fbn2ihnjxotm7y4fu0kzeih) for collaborative documents (used most often during some workshop sessions).
 
 ## Devices
-Please bring a laptop to each workshop. We will use digital tools and download software during the summer and will frequently use them. If you have any questions or concerns about having access to a laptop this summer, do not hesitate to talk to Eliza or Iliana. 
+Please bring a laptop to each workshop. We will use digital tools and download software during the summer and will frequently use them. If you have any questions or concerns about having access to a laptop this summer, do not hesitate to talk to us. 
 
 ## Schedule
 Here’s the schedule for the next six weeks. Each session will take place 10am – 12pm in Olin Library 701, unless otherwise noted. We plan 10-minute breaks during each session. Most workshop days will include a small assignment to do in advance, and a reflection to complete afterward. 
 
 While some workshops will take place with the full group, many will take place with your subcohorts. Here, we've abbreviated the digital collections group name to "COLLX" and the text analaysis group's name as "TEXT."
 
-Co-working sessions are time to work on projects individually in each other’s presence or in small groups, to ask questions, and to generate conversation, as appropriate.  All co-working sessions will be held as a full group. 
+Co-working sessions are time to work on projects individually in each other’s presence or in small groups, to ask questions, and to generate conversation, as appropriate. All co-working sessions will be held as a full group. 
 
-During the **mid-program presentations (Monday, June 16)**, each Fellow will informally present on their project intentions during the following three weeks. Reflect on what you'd like to accomplish by the end of the summer as well as any challenges you anticipate (and strategies for navigating those challenges). You can also ask the group questions if you'd like feedback or ideas. Plan to share for about 8-10 minutes, then receive feedback or questions for 5-7 minutes. 
+During the **mid-program presentations (Monday, June 23)**, each Fellow will informally present on their project intentions during the following three weeks. Reflect on what you'd like to accomplish by the end of the summer as well as any challenges you anticipate (and strategies for navigating those challenges). You can also ask the group questions if you'd like feedback or ideas. Plan to share for about 8-10 minutes, then receive feedback or questions for 5-7 minutes. 
 
 The **Summer Digital Humanities Showcase (Thursday, July 10), 10am-3pm at the A.D. White House** will be the final event of the Summer DH program. During the event, you will each share out reflections on the progress you've made in your projects, as well as your key takeaways from the summer. This year, we plan to have these presentations in a panel format according to the two cohorts. We will provide lunch and refreshments this day. Please feel free to invite colleagues and friends!
 
@@ -53,11 +53,11 @@ The **Summer Digital Humanities Showcase (Thursday, July 10), 10am-3pm at the A.
 | Week | Monday   | Tuesday | Wednesday | Thursday | Friday  |
 |-------|----------|--------|------------|---------|-------------|
 | 1 | **June 2**: Intro to Data and DH | **June 3**: Subcohort kickoff  | **June 4**: How the Internet Works / Subcohort sessions | **June 5**: Subcohort sessions | **June 9**: Copyright, Fair Use, and Scholarly Communications / Subcohort sessions |
-| 2 | **June 9**: Subcohort sessions | **June 10** Subcohort sessions | **June 11**: A.I. | **June 12**: Subcohort sessions | **June 13**: 1:1 meetings                                            |
-| 3 | **June 16**: Midterm Presentations |  | | **June 19**: Coworking| **June 20**: Coworking                                           |
-| 4 | **June 23**: Coworking |  |  | **June 26**: Coworking |                                         |
+| 2 | **June 9**: Subcohort sessions | **June 10** Subcohort sessions | **June 11**: A.I. | **June 12**: Subcohort sessions / 1:1 meetings | **June 13**: 1:1 meetings                                            |
+| 3 | **June 16**: Coworking |  | | **June 19**: Coworking | **June 20**: Coworking                                           |
+| 4 | **June 23**: Midterm Presentations |  |  | **June 26**: Coworking |                                         |
 | 5 | **June 30**: Coworking |  | **July 2**: Coworking | |                                         |
-| 6 | **July 7**: Coworking | **July 8**: Coworking | **July 9**: (Optional) Coworking | **July 10**: Summer DH Showcase |    
+| 6 | **July 7**: Coworking | **July 8**: Coworking | **July 9**: (Optional) Coworking | **July 10**: Summer DH Showcase |                                            |
 
 ## A note on research logs
 We encourage you all to build the habit of keeping a research log as you work on your projects this summer (and beyond). Research logs are dedicated spaces for you to reflect on what you're learning, document your progress, record helpful resources and note questions and challenges. 
