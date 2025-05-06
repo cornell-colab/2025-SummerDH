@@ -6,8 +6,6 @@ header: false
 permalink: /text/day0/
 ---
 
-# Exploring Text Analysis
-
 ### Before the session
 #### 1. Read and watch:
 * **Read:** Nguyen, Dong, et al. “[How We Do Things With Words: Analyzing Text as Social and Cultural Data](https://doi.org/10.3389/frai.2020.00062).” Frontiers in Artificial Intelligence, vol. 3, Aug. 2020.
