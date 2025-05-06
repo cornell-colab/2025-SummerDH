@@ -26,13 +26,13 @@ homepage: true
 
 # Program Schedule and Overview
 
-Welcome to Summer DH 2025! This page overviews details about the program and the program schedule.
+Welcome to Summer DH 2025! This page overviews details about the program and the [program schedule](https://cornell-colab.github.io/2025-SummerDH/modules).
 
 ## (Digital) places we'll spend time
 
 * The overview for each workshop, and instructions for assignments and workshop prep, will appear on this site.
 * The [discussion board](https://github.com/cornell-colab/2025-SummerDH/discussions) will be a private space to post reflections and comments. 
-* The [Fellows' Folder in Box](https://cornell.box.com/s/5m9lh7988fbn2ihnjxotm7y4fu0kzeih) for collaborative documents (used most often during some workshop sessions).
+* The [Fellows' Folder in Box](https://cornell.box.com/s/a20ntjnqjbldizrhohdeewkp2mrihrbg) for collaborative documents (used most often during some workshop sessions).
 
 ## Devices
 Please bring a laptop to each workshop. We will use digital tools and download software during the summer and will frequently use them. If you have any questions or concerns about having access to a laptop this summer, do not hesitate to talk to us. 
