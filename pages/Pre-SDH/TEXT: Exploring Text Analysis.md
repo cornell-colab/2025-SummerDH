@@ -1,3 +1,10 @@
+---
+layout: page
+subheadline: "Pre-SDH"
+title: "Exploring Text Analysis"
+header: false
+permalink: /text/day0/
+---
 
 # Exploring Text Analysis
 
