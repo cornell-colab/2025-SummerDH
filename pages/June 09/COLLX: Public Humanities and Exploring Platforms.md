@@ -10,7 +10,7 @@ permalink: "/collections/day6/"
 <br>
 
 # Exploring Platforms, Tools, and Software
-## Pre Activities
+## Pre-Activities
 ### Readings:
 - [Ten Factors When Considering Tools](https://handsondataviz.org/tool-factors.html) by Jack Doughtery and Ilya Ilankyou
 ## Session Activities
