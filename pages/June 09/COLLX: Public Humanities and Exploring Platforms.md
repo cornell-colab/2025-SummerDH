@@ -27,8 +27,9 @@ permalink: "/collections/day6/"
   * What parts of your project do you want to be interactive? What kind of interactivity do you want?
 * Who is your project for?
 * How much time and resources do you have to maintain the project?
+* What kinds of research questions do you want to answer?
 
-### Finding the Best Fit for You Data
+### Finding a Fit for You Data
 In this activity, you're going to use your [assigned sample dataset]() to create a public-facing visualization or collections. From the list below, select the tool you think is best suited to use to present your data:
 * [DataWrapper](https://app.datawrapper.de/edit/ymjsw/upload)
 * [StoryMapJS](https://storymap.knightlab.com/)
