@@ -26,6 +26,7 @@ Using a writing implmenet and a piece of paper, take the next 5 minutes and writ
 
 As we go through the processing of thinking about how we can categorize our collection data through the use of metadata, keep the basics of what data you actually have in mind.
 
+<hr>
 
 ### Ontology Exercises
 Exercises - All the documents you need are in the Box folder for this exercise
