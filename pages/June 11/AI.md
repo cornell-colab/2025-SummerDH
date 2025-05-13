@@ -6,9 +6,6 @@ teaser: ""
 header: no
 permalink: "/modules/day8/"
 ---
-
-# Artificial Intelligence
-
 ## Before the session:
 
 Read the following:
