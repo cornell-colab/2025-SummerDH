@@ -29,6 +29,8 @@ In the next ten minutes, take the time to write your own webpage from scratch. Y
 * At least three pieces of media (images, video, audio, iframes, etc.)
 For help and reference, use [W3 Schools HTML elements reference page](https://www.w3schools.com/tags/) and [CSS reference page](https://www.w3schools.com/w3css/w3css_references.asp).
 
+### References
+
 ## Post-Activities
 Tomorrow we’ll be talking more about JavaScript. To get a basic grasp of how JS works with HTML and CSS to power website elements, read the “What is JavaScript?” and “JavaScript walkthrough” sections of Mozilla’s MDN web docs [Dynamic scripting with JavaScript](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting) documentation.
 
