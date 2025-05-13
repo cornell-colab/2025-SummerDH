@@ -23,6 +23,7 @@ There are two sample webpages, [Colors of Cats](https://kam535.github.io/sample-
 In this section, we'll quickly go over a few different ways that you will see CSS added to the HTML on a page. This includes: inline CSS, head CSS, a separate stylesheet, and imported individual, section-based stylesheets. 
 
 ### Writing HTML and CSS (10 minutes building, 5 minute share-out)
+- From a tenplate? or a copy?
 In the next ten minutes, take the time to write your own webpage from scratch. You can put whatever you want on the webpage, but it must include at least:
 * Five different HTML elements
 * At least two styles for each HTML element
