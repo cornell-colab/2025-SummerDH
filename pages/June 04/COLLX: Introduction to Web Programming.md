@@ -7,15 +7,6 @@ header: no
 permalink: "/collections/day3/"
 ---
 
----
-layout: page
-subheadline: "June 04, 2025"
-title: "Introduction to Web Programming"
-teaser: ""
-header: no
-permalink: "/collections/day3/"
----
-
 ## Pre-Activities
 In preparation for our web programming session tomorrow, please complete the “Build & Deploy Your First Website” section of [Scrimba’s Learn HTML & CSS lesson](https://scrimba.com/learn-html-and-css-c0p). If you encounter any issues accessing the scrim, please email Kiran to let her know.
 
