@@ -46,7 +46,7 @@ All programmers, regardless of how long they've been coding, rely on resource li
 * [DevDocs](https://devdocs.io/)
 * [CSS grid cheat sheet](https://alialaa.github.io/css-grid-cheat-sheet/)
 * [JS cheat sheet](https://htmlcheatsheet.com/js/)
-* Google searches for your problem that ends in "JS Fiddle" or "Stack Overflow" are helpful. 
+* Google searches for your problem that end in "JS Fiddle" or "Stack Overflow" are helpful. 
 
 ## Post-Activities
 Continue to work on your two scripts from today's session. If you need help, reach out to Kiran or Matt.
