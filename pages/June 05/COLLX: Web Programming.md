@@ -23,12 +23,15 @@ This session, we’ll be talking more about JavaScript. To get a basic grasp of 
 ### On Frustration
 Before we get started today, please read this short forum post on [frustration while coding](https://discuss.codecademy.com/t/dealing-with-frustration-while-learning-to-code/512136). Then maybe read it again. As you work through today's activities, feel free to refer back to this post when you need a reminder to breathe.
 
+### Refresher on Tags, Attributes, and Elements
+Before we start adding JavaScript, it's important to make sure we understand what an HTML element, tag, and attribute are. As you work through your projects, it will also be helpful to make sure you know your terms, so that you can look things up more precisely when you need help from the Internet. 
 <img src="https://cornell-colab.github.io/2025-SummerDH/images/qr-quizziz.jpg" height=200px>
-
 
 ### What is the HTML DOM?
 In this section, we'll go over what the HTML DOM is in relation to JavaScript, and how that can help us think about creating and executing scripts. <br>
 <img src="https://www.tutorialspoint.com/html/images/html_dom.jpg" height="400" style="text-align:center;">
+
+### JavaScript Objects and Properties
 
 
 ### Adding JavaScript (15 minutes building, 5 minute share-out)
