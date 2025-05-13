@@ -23,7 +23,7 @@ This session, we’ll be talking more about JavaScript. To get a basic grasp of 
 ### On Frustration
 Before we get started today, please read this short forum post on [frustration while coding](https://discuss.codecademy.com/t/dealing-with-frustration-while-learning-to-code/512136). Then maybe read it again. As you work through today's activities, feel free to refer back to this post when you need a reminder to breathe.
 
-<img src="https://cornell-colab.github.io/images/qr-quizziz.jpg" height=200px>
+<img src="https://cornell-colab.github.io/2025-SummerDH/images/qr-quizziz.jpg" height=200px>
 
 
 ### What is the HTML DOM?
