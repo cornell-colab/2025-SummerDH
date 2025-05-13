@@ -17,7 +17,7 @@ Briefly skim:
 
 Fully read:
 - Chapter 1 in [Metadata: Shaping Knowledge from Antiquity to the Semantic Web](https://catalog.library.cornell.edu/catalog/13046951) by Richard Gartner
-- [Humanities Data: A Necessary Contradiction by Miriam Posner](https://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)
+- [Humanities Data: A Necessary Contradiction](https://miriamposner.com/blog/humanities-data-a-necessary-contradiction/) by Miriam Posner
 ## Session Activities
 ### Defining Your Data in the Humanities
 As you work on your projects this summer, you'll become more and more familiar with the objects before you, how they relate to one another, and what they mean in an assemblage. In order to get a good grasp on your objects from a data perspective, it's often useful to figure out what you have.
