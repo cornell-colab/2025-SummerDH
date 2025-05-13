@@ -36,7 +36,7 @@ Exercises - All the documents you need are in the Box folder for this exercise
     * Group 1
    *  Group 2
 
-## Metadata for your projects
+### Writing metadata for your projects
 
 Ideas to keep in mind:
 
