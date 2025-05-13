@@ -27,9 +27,10 @@ In this section, we'll go over what the HTML DOM is in relation to JavaScript, a
 
 
 ### Adding JavaScript (15 minutes building, 5 minute share-out)
-In the next ten minutes, take the time to write two JavaScript functions for the webpage you built yesterday that will change something in your CSS or HTML. The JS functions can do whatever you want, but it’s worth considering writing a plugin that may relate to your project. For example, Marijke might want to add a script that plays audio on clicking a piece of text. Nic might want to add a progress tracker of some sort. Brume might want to extract all of the titles of headings into a list. Gorka might want to make an image open up in a new tab on click.
+In the next ten minutes, take the time to write two scripts for the webpage you built yesterday that will change something in your CSS or HTML. The JS functions can do whatever you want, but it’s worth considering writing a plugin that may relate to your project. For example, Marijke might want to add a script that plays audio on clicking a piece of text. Nic might want to add a progress tracker of some sort. Brume might want to extract all of the titles of headings into a list. Gorka might want to make an image open up in a new tab on click.
  
 For help and reference, use [W3 Schools JavaScript examples](https://www.w3schools.com/js/js_examples.asp) and [JS HTML events examples](https://www.w3schools.com/js/js_events_examples.asp)
 
 ## Post-Activities
+Continue to work on your two scripts from today's session. If you need help, reach out to Kiran or Matt.
 (Optional) Keep working through programming exercises in W3 Tutorials.
