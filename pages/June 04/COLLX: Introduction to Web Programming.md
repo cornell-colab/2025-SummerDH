@@ -17,14 +17,15 @@ While the web sites and pages that you program for your project will naturally e
 Once you’ve completed all or as many of your exercises as you can, let Kiran or Eliza know. We’ll get back together as a group and discuss any challenges, thoughts, or questions you have.
 
 ### Copy, Paste (10 minutes)
-There are two sample webpages, [Colors of Cats](https://kam535.github.io/sample-pages/) and [Fluffy Dogs](https://kam535.github.io/sample-pages/dogs.html). Pick one of these two webpages and in your own GitHub repository, in a file, or on a piece of paper, try to recreate the page’s source code. You can use [W3 schools HTML elements reference page](https://www.w3schools.com/tags/) and [CSS reference page](https://www.w3schools.com/tags/) for help. Remember, there may not be one exact right answer, so feel free to experiment!
+There are two sample webpages, [Colors of Cats](https://kam535.github.io/sample-pages/) and [Fluffy Dogs](https://kam535.github.io/sample-pages/dogs.html). Pick one of these two webpages and in your own GitHub repository, in a file, or on a piece of paper, try to recreate the page’s source code. You can use [W3 schools HTML elements reference page](https://www.w3schools.com/tags/) and [CSS reference page](https://www.w3schools.com/tags/) for help. Feel free to change the pictures used on the sites.
+
+Remember, there may not be one exact right answer, so feel free to experiment!
 
 ### Review of the many ways to add CSS (5 minutes)
 In this section, we'll quickly go over a few different ways that you will see CSS added to the HTML on a page. This includes: inline CSS, head CSS, a separate stylesheet, and imported individual, section-based stylesheets. 
 
 ### Writing HTML and CSS (10 minutes building, 5 minute share-out)
-- From a tenplate? or a copy?
-In the next ten minutes, take the time to write your own webpage from scratch. You can put whatever you want on the webpage, but it must include at least:
+In the next ten minutes, take the time to write your own webpage in a GitHub repository, using a copy of [Colors of Cats](https://github.com/kam535/sample-pages/blob/main/index.html), [Fluffy Dogs](https://github.com/kam535/sample-pages/blob/main/dogs.html), or another GitHub template. You can put whatever you want on the webpage, but it must include at least:
 * Five different HTML elements
 * At least two styles for each HTML element
 * At least three pieces of media (images, video, audio, iframes, etc.)
