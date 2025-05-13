@@ -6,14 +6,7 @@ teaser: ""
 header: no
 permalink: "/collections/day4/"
 ---
----
-layout: page
-subheadline: "June 05, 2025"
-title: "Web Programming"
-teaser: ""
-header: no
-permalink: "/collections/day4/"
----
+
 ## Pre-Activities
 This session, we’ll be talking more about JavaScript. To get a basic grasp of how JS works with HTML and CSS to power website elements, read the “What is JavaScript?” and “JavaScript walkthrough” sections of Mozilla’s MDN web docs [Dynamic scripting with JavaScript](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting) documentation.
 
