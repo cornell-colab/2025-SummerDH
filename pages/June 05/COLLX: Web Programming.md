@@ -8,12 +8,16 @@ permalink: "/collections/day4/"
 ---
 
 ## Pre-Activities
+### Activities
 This session, we’ll be talking more about JavaScript. To get a basic grasp of how JS works with HTML and CSS to power website elements, read the “What is JavaScript?” and “JavaScript walkthrough” sections of Mozilla’s MDN web docs [Dynamic scripting with JavaScript](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting) documentation.
 
 (Optional) Go through the JavaScript exercises in [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/js_intro.asp), from JavaScript Introduction to JavaScript Strings.
 
+### Readings
+[frustration while coding](https://discuss.codecademy.com/t/dealing-with-frustration-while-learning-to-code/512136)
+
 ## Session Activities
-### On Frustration (5 minutes)
+### On Frustration: Discussion (5 minutes)
 Before we get started today, please read this short forum post on [frustration while coding](https://discuss.codecademy.com/t/dealing-with-frustration-while-learning-to-code/512136). Then maybe read it again. As you work through today's activities, feel free to refer back to this post when you need a reminder to breathe.
 
 ### Refresher on Tags, Attributes, and Elements (10 minutes)
