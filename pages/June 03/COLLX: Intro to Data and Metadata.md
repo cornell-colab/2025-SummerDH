@@ -30,30 +30,28 @@ As we go through the processing of thinking about how we can categorize our coll
 ### Ontology Exercises
 Exercises - All the documents you need are in the Box folder for this exercise
 
-    Ontology of Jars Boxnote
-    Ontology of Hats Boxnotes
-        Group 1
-        Group 2
+* Ontology of Jars Boxnote
+* Ontology of Hats Boxnotes
+    * Group 1
+   *  Group 2
 
 ## Metadata for your projects
 
 Ideas to keep in mind:
 
-    Controlled vocab
-    Hierarchy
-    Flexibility and Extensibility
-    Faceting
+* Controlled vocab
+* Hierarchy
+* Flexibility and Extensibility
+* Faceting
 
-What might your metadata application profile (MAP) look like?
-For Reference
-
-    DublinCore
-    VRACore
-    Cornell University Library -- Metadata Application Profiles
-    Cornell University Library Digital Collections
-    Europeana Metadata Schema
-    Introduction to Metadata, a guidebook published by the Getty Research Institute.
-    Getty Vocabularies, a collection of controlled vocabularies related to art, artists, cultural objects, and geographic names.
-    Homosaurus: An International LGBTQ+ Linked Data Vocabulary.
+What might your metadata application profile (MAP) look like? Some examples includes:
+* DublinCore
+* VRACore
+* Cornell University Library -- Metadata Application Profiles
+* Cornell University Library Digital Collections
+* Europeana Metadata Schema
+* Introduction to Metadata, a guidebook published by the Getty Research Institute.
+* Getty Vocabularies, a collection of controlled vocabularies related to art, artists, cultural objects, and geographic names.
+* Homosaurus: An International LGBTQ+ Linked Data Vocabulary.
 
 ## Post-Activities
