@@ -56,3 +56,5 @@ What might your metadata application profile (MAP) look like? Some examples incl
 * Homosaurus: An International LGBTQ+ Linked Data Vocabulary.
 
 ## Post-Activities
+In preparation for our web programming session tomorrow, please complete the “Build & Deploy Your First Website” section of [Scrimba’s Learn HTML & CSS lesson](https://scrimba.com/learn-html-and-css-c0p). If you encounter any issues accessing the scrim, please email Kiran to let her know.
+
