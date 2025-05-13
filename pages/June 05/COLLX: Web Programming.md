@@ -14,11 +14,12 @@ This session, we’ll be talking more about JavaScript. To get a basic grasp of 
 (Optional) Go through the JavaScript exercises in [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/js_intro.asp), from JavaScript Introduction to JavaScript Strings.
 
 ### Readings
-[frustration while coding](https://discuss.codecademy.com/t/dealing-with-frustration-while-learning-to-code/512136)
+Forum post on [frustration while coding](https://discuss.codecademy.com/t/dealing-with-frustration-while-learning-to-code/512136)
 
 ## Session Activities
 ### On Frustration: Discussion (5 minutes)
-Before we get started today, please read this short forum post on [frustration while coding](https://discuss.codecademy.com/t/dealing-with-frustration-while-learning-to-code/512136). Then maybe read it again. As you work through today's activities, feel free to refer back to this post when you need a reminder to breathe.
+Before we get started with programming today, let's reflect on the forum post you read before our session and your experiences working through the JavaScript homework. 
+As you work through today's activities, feel free to refer back to this post when you need a reminder to breathe.
 
 ### Refresher on Tags, Attributes, and Elements (10 minutes)
 Before we start adding JavaScript, it's important to make sure we understand what an HTML element, tag, and attribute are. As you work through your projects, it will also be helpful to make sure you know your terms, so that you can look things up more precisely when you need help from the Internet. <br>
@@ -28,6 +29,14 @@ Before we start adding JavaScript, it's important to make sure we understand wha
 In this section, we'll go over what the HTML DOM is in relation to JavaScript, and how that can help us think about creating and executing scripts. <br>
 <img src="https://www.tutorialspoint.com/html/images/html_dom.jpg" height="400" style="text-align:center;">
 
+### Finding Scripts, or Writing Scripts
+Often when building a webpage, you won't have to write your own JavaScript, but can use scripts already written by other people. There are many free and open-source JavaScript libraries that you can add code from to your webpage. For example:
+* [D3](https://d3js.org/), a library for interactive data visualizations
+* [Anime.js](https://animejs.com/), a library for complex animations
+* [Leaflet](https://leafletjs.com/), a library for interactive maps
+* [Popper](https://floating-ui.com/?utm_source=popper.js.org), a library for pop-ups, tooltops, and dropdowns
+
+To add a script from a library to your page, you add <script type='text/javascript' src="SOURCE-LIBRARY-URL"> to the head of your HTML document.
 
 ### Adding JavaScript (25 minutes building, 5 minute share-out)
 In pairs for the next ten minutes, take the time to write a script for the webpage you built yesterday that will change something in your CSS or HTML. The JS functions can do whatever you want, but it’s worth considering writing a script that may relate to your project. For example, Marijke might want to add a script that plays audio on clicking a piece of text. Nic might want to add a progress tracker of some sort. Brume might want to extract all of the titles of headings into a list. Gorka might want to make an image open up in a new tab on click. See the list below for an example of scripts you might want to considering editing or recreating:
