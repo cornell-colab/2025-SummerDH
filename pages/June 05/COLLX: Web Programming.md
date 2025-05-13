@@ -29,11 +29,24 @@ In this section, we'll go over what the HTML DOM is in relation to JavaScript, a
 <img src="https://www.tutorialspoint.com/html/images/html_dom.jpg" height="400" style="text-align:center;">
 
 
+### Adding JavaScript (25 minutes building, 5 minute share-out)
+In pairs for the next ten minutes, take the time to write a script for the webpage you built yesterday that will change something in your CSS or HTML. The JS functions can do whatever you want, but it’s worth considering writing a script that may relate to your project. For example, Marijke might want to add a script that plays audio on clicking a piece of text. Nic might want to add a progress tracker of some sort. Brume might want to extract all of the titles of headings into a list. Gorka might want to make an image open up in a new tab on click. See the list below for an example of scripts you might want to considering editing or recreating:
+* [Change HTML content](https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_inner_html)
+* [Change CSS](https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_style)
+* [Rainbow background button](https://github.com/kam535/sample-pages/blob/main/rainbow-bg.html)
+* [Rainbow words buttons](https://github.com/kam535/sample-pages/blob/main/rainbow.html)
+* [Image carousel](https://github.com/kam535/sample-pages/blob/main/birds.html)
+* [Play/pause audio on click](https://github.com/kam535/sample-pages/blob/main/honks.html)
+  
 
-### Adding JavaScript (20 minutes building, 5 minute share-out)
-In the next ten minutes, take the time to write two scripts for the webpage you built yesterday that will change something in your CSS or HTML. The JS functions can do whatever you want, but it’s worth considering writing a plugin that may relate to your project. For example, Marijke might want to add a script that plays audio on clicking a piece of text. Nic might want to add a progress tracker of some sort. Brume might want to extract all of the titles of headings into a list. Gorka might want to make an image open up in a new tab on click.
- 
-For help and reference, use [W3 Schools JavaScript examples](https://www.w3schools.com/js/js_examples.asp) and [JS HTML events examples](https://www.w3schools.com/js/js_events_examples.asp)
+## References
+All programmers, regardless of how long they've been coding, rely on resource lists to help them write and debug their code. Here are a few that you can refer to when you're writing:
+* [W3 Schools JavaScript examples](https://www.w3schools.com/js/js_examples.asp)
+* [W3 Schools HTML events examples](https://www.w3schools.com/js/js_events_examples.asp)
+* [DevDocs](https://devdocs.io/)
+* [CSS grid cheat sheet](https://alialaa.github.io/css-grid-cheat-sheet/)
+* [JS cheat sheet](https://htmlcheatsheet.com/js/)
+* Google searches for your problem that ends in "JS Fiddle" or "Stack Overflow" are helpful. 
 
 ## Post-Activities
 Continue to work on your two scripts from today's session. If you need help, reach out to Kiran or Matt.
