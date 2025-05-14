@@ -29,3 +29,4 @@ Coming soon!
 * [Popper](https://floating-ui.com/?utm_source=popper.js.org): A a JS library for pop-ups, tooltops, and dropdowns.
 * [Bootstrap](https://getbootstrap.com/): A a JS library for front-end HTML, CSS, and JS, mostly for static sites.
 * [React](https://react.dev/): A a JS library for building slick user interfaces.
+* [Google Fonts](https://fonts.google.com/): A library and API for fonts.
