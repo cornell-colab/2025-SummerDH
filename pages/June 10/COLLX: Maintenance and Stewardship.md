@@ -35,7 +35,22 @@ When you're done, write another short piece of documentation, this time for othe
 
 Now that you're done, we're going to test your documentation. Give the person next to you the URL for your script and your documentation.
 
-### Other Activity (Forthcoming)
+### Developing a Maintenance Plan (10-15 minutes)
+One of the most important steps for ensuring that your project survives is to develop a maintenance plan **BEFORE** you get started building your project. As Wilke and Williamson underscore, certain technologies and tools are better suited to smaller teams with less resources and time for maintenance, while others will require a lot of constant, hands-on work to ensure that the content and functionality is preserved in the long-term.
+
+In this time, consider the following questions in relation to your project data and write them down (on paper or on your computer):
+* What are your central research questions?
+  * Looking at your data outline from Day 2, what pieces or parts of your data are **most essential** to answering these questions?
+  * Go through each type of data you have in your project. Rank these data types my high priority to low priority for answering your research questions. If you're having trouble ranking them, write down why!
+* What file format(s) is your data stored in? If you have multiple file formats, how might this impact preserving or maintaining your data?
+* How do you currently access your data (in folders, in a Google Drive, on your computer desktop, etc.)?
+  * Do you have multiple access points for your data, or only one way to access your data?
+* What permissions might you need to use your data? What permisssions might you give to others to use your data?
+  * Will you need to renew or check-in about these permissions, or will they remain the same?
+  * Do you own each piece of data, or does someone else own or provide some of your data?
+* Do you want your data to be fully public or somewhat private?
+  * Does your data contain any personally-identifiable or sensitive information?
+* Will you need long-terms support from anyone else (a software company, a specific platform, a group of contributors, crowd-sourcing, etc.) to support preserving and sharing your data?
 
 <hr>
 
@@ -61,7 +76,7 @@ Below are four different webpages. In pairs, go through each webpage below and d
 * https://perma.cc/89YQ-BY3Y
 * https://cornell-colab.github.io/assets/may-morris.wacz (use [ReplayWeb](https://replayweb.page/) for this one)
 
-### Archiving Pages Using the Internet Archive, Perma.cc, ArchiveBox, and Conifer
+### Archiving Pages Using the Internet Archive, Perma.cc, ArchiveBox, and Conifer (15 minutes)
 There are a few platforms that support one-click web archiving. These platforms allow you to enter a link, press a button, and have the page you'd like to archive added to their servers and publicly-available for viewing. Try archiving a page with both the Internet Archive and Perma.cc. You can use the [login credentials in this Box note]() for Perma.cc if you don't want to make an account.
 
 Next, try archiving a webpage using Conifer. You can use the [login credentials in this Box note]() if you don't want to make an account. Conifer lets you make both private and public collections, and let's you repeat capture and patch broken snapshots from your browser.
