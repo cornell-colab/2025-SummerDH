@@ -49,7 +49,11 @@ In pairs for the next ten minutes, take the time to write a script for the webpa
 * [Rainbow words buttons](https://github.com/kam535/sample-pages/blob/main/rainbow.html)
 * [Image carousel](https://github.com/kam535/sample-pages/blob/main/birds.html)
 * [Play/pause audio on click](https://github.com/kam535/sample-pages/blob/main/honks.html)
-  
+
+<hr>
+Break (15 minutes)
+<hr>
+
 
 ## References
 All programmers, regardless of how long they've been coding, rely on resource lists to help them write and debug their code. Here are a few that you can refer to when you're writing:
