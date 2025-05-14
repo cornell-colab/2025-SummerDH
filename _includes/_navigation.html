@@ -35,13 +35,7 @@
             {% if link.dropdown == nil %}
               <li class="divider"></li>
               <li{% if link.url == page.url %} class="active"{% elsif page.homepage == true and link.url == '/' %} class="active"{% endif %}><a href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a></li>
-              <li>
-                <a href="{{ 'github.com/cornell-colab/2025-SummerDH/'}}" class="nav-list-link nav-lh">
-                    <span>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="45" height="25">
-                    </span>
-                </a>
-             </li>
+              
             {% comment %}   If right side WITH dropdown menu do   {% endcomment %}
             {% else %}
 
@@ -67,6 +61,13 @@
           {% endif %}
         {% endfor %}
         {% comment %}   First loop finished 1   {% endcomment %}
+        <li>
+                <a href="{{ 'github.com/cornell-colab/2025-SummerDH/'}}" class="nav-list-link nav-lh">
+                    <span>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="45" height="25">
+                    </span>
+                </a>
+             </li>
       </ul>
 {% comment %}
 
