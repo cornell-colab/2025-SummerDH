@@ -15,8 +15,16 @@ All programmers, regardless of how long they've been coding, rely on resource li
 * [JS cheat sheet](https://htmlcheatsheet.com/js/)
 * Google searches for your problem that end in "JS Fiddle" or "Stack Overflow" are helpful. 
 
-## Lessons
-
+## Learning Platforms
+Coming soon!
+<br>
 ## Quizzes
-
+Coming soon!
+<br>
 ## Libraries
+* [SVG Repo](https://www.svgrepo.com/): A library of free svg icons and vectors.
+* [D3](https://d3js.org/), a library for interactive data visualizations
+* [Anime.js](https://animejs.com/), a library for complex animations
+* [Leaflet](https://leafletjs.com/), a library for interactive maps
+* [Popper](https://floating-ui.com/?utm_source=popper.js.org), a library for pop-ups, tooltops, and dropdowns
+* [Bootstrap](https://getbootstrap.com/), a library for front-end HTML, CSS, and JS, mostly for static sites
