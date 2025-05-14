@@ -23,8 +23,9 @@ Coming soon!
 <br>
 ## Libraries
 * [SVG Repo](https://www.svgrepo.com/): A library of free svg icons and vectors.
-* [D3](https://d3js.org/), a library for interactive data visualizations
-* [Anime.js](https://animejs.com/), a library for complex animations
-* [Leaflet](https://leafletjs.com/), a library for interactive maps
-* [Popper](https://floating-ui.com/?utm_source=popper.js.org), a library for pop-ups, tooltops, and dropdowns
-* [Bootstrap](https://getbootstrap.com/), a library for front-end HTML, CSS, and JS, mostly for static sites
+* [D3](https://d3js.org/): A JS library for interactive data visualizations.
+* [Anime.js](https://animejs.com/): A JS library for complex animations.
+* [Leaflet](https://leafletjs.com/): Aa JS library for interactive maps.
+* [Popper](https://floating-ui.com/?utm_source=popper.js.org): A a JS library for pop-ups, tooltops, and dropdowns.
+* [Bootstrap](https://getbootstrap.com/): A a JS library for front-end HTML, CSS, and JS, mostly for static sites.
+* [React](https://react.dev/): A a JS library for building slick user interfaces.
