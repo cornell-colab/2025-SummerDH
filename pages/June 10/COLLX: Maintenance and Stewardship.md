@@ -61,9 +61,12 @@ Below are four different webpages. In pairs, go through each webpage below and d
 * https://perma.cc/89YQ-BY3Y
 * https://cornell-colab.github.io/assets/may-morris.wacz (use [ReplayWeb](https://replayweb.page/) for this one)
 
-### Archiving Pages Using the Internet Archive and Perma.cc
+### Archiving Pages Using the Internet Archive, Perma.cc, ArchiveBox, and Conifer
+There are a few platforms that support one-click web archiving. These platforms allow you to enter a link, press a button, and have the page you'd like to archive added to their servers and publicly-available for viewing. Try archiving a page with both the Internet Archive and Perma.cc. You can use the [login credentials in this Box note]() for Perma.cc if you don't want to make an account.
 
+Next, try archiving a webpage using Conifer. You can use the [login credentials in this Box note]() if you don't want to make an account. Conifer lets you make both private and public collections, and let's you repeat capture and patch broken snapshots from your browser.
 
-### Archiving Pages Using ArchiveBox and Conifer
+#### ArchiveBox Demo
+Because ArchiveBox takes some setup and knowledge of the command line, Kiran's going to give you a demo of what it looks like and how it works, both the CLI and Web UI.
 
 ## Post-Activities
