@@ -25,8 +25,8 @@ As you work through today's activities, feel free to refer back to this post whe
 Before we start adding JavaScript, it's important to make sure we understand what an HTML element, tag, and attribute are. As you work through your projects, it will also be helpful to make sure you know your terms, so that you can look things up more precisely when you need help from the Internet. <br>
 <img src="https://cornell-colab.github.io/2025-SummerDH/images/qr-quizziz.jpg" height=200px>
 
-### What is the HTML DOM? (5 minutes)
-In this section, we'll go over what the HTML DOM is in relation to JavaScript, and how that can help us think about creating and executing scripts. <br>
+### Mini Lecture: Statements, Commands, and the HTML DOM? (10 minutes)
+In this section, we'll go over a couple of key terms when using JS, and define what the HTML DOM is in relation to JavaScript and how that can help us think about creating and executing scripts. <br>
 <img src="https://www.tutorialspoint.com/html/images/html_dom.jpg" height="400" style="text-align:center;">
 
 ### Finding and Using Scripts (10 minutes)
@@ -41,8 +41,19 @@ To add a script from a library to your page, you add a script tag <script type='
 
 In pairs, find a module in any of the JavaScript libraries above and add it to a new webpage in one of your GitHub repositories. Next, find a module not in one of the libraries above (use your awesome Googling skills) and add it to your webpage.
 
+### Editing Scripts (10 minutes)
+Sometimes you find a useful script, but need it to do something else or parse a dataset that it doesn't already do. This is when your reading and writing skills come in, as you'll need to edit the script to make it fit your purposes.
+
+Take the script you added in the last activity and edit something about its functionality, styles, or the dataset it pulls from.
+
+<hr>
+
+### Break (15 minutes)
+
+<hr>
+
 ### Adding JavaScript (25 minutes building, 5 minute share-out)
-In pairs for the next ten minutes, take the time to write a script for the webpage you built yesterday that will change something in your CSS or HTML. The JS functions can do whatever you want, but it’s worth considering writing a script that may relate to your project. For example, Marijke might want to add a script that plays audio on clicking a piece of text. Nic might want to add a progress tracker of some sort. Brume might want to extract all of the titles of headings into a list. Gorka might want to make an image open up in a new tab on click. See the list below for an example of scripts you might want to considering editing or recreating:
+In pairs for the twenty-five ten minutes, take the time to write a script for the webpage you built yesterday that will change something in your CSS or HTML. The JS functions can do whatever you want, but it’s worth considering writing a script that may relate to your project. For example, Marijke might want to add a script that plays audio on clicking a piece of text. Nic might want to add a progress tracker of some sort. Brume might want to extract all of the titles of headings into a list. Gorka might want to make an image open up in a new tab on click. See the list below for an example of scripts you might want to considering editing or recreating:
 * [Change HTML content](https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_inner_html)
 * [Change CSS](https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_style)
 * [Rainbow background button](https://github.com/kam535/sample-pages/blob/main/rainbow-bg.html)
@@ -50,10 +61,11 @@ In pairs for the next ten minutes, take the time to write a script for the webpa
 * [Image carousel](https://github.com/kam535/sample-pages/blob/main/birds.html)
 * [Play/pause audio on click](https://github.com/kam535/sample-pages/blob/main/honks.html)
 
-<hr>
-Break (15 minutes)
-<hr>
 
+### Check-Ins (5 minutes)
+We've spent an hour doing a lot of programming, so let's check-in to see how we're feeling about what we've handled so far. What questions do you have? How are you feeling about the process of programming? What frustrations have come up? What do you wish you knew more about?
+
+###
 
 ## References
 All programmers, regardless of how long they've been coding, rely on resource lists to help them write and debug their code. Here are a few that you can refer to when you're writing:
