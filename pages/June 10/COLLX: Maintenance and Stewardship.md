@@ -52,11 +52,9 @@ In this time, consider the following questions in relation to your project data 
   * Does your data contain any personally-identifiable or sensitive information?
 * Will you need long-terms support from anyone else (a software company, a specific platform, a group of contributors, crowd-sourcing, etc.) to support preserving and sharing your data?
 
-<hr>
-
+<br>
 <p style="font-weight:bold; font-size:16pt;"> Break </p>
-
-<hr>
+<br>
 
 ### Mini Lecture: Web Archiving (10 minutes)
 Web archiving is a process which can take many forms but most commonly involves making and storing “preserved copies of live web content collected for permanent retention and access”. Practically, this means creating a copy of all of the code behind a webpage and the way that code is displayed at a very specific point in time, with the intention of being able to access that capture of the webpage as-is in the future.
