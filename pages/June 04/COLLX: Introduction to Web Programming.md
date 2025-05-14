@@ -2,6 +2,8 @@
 layout: page
 subheadline: "June 04, 2025"
 title: "Introduction to Web Programming"
+header:
+  image_fullwidth: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq3UDa9DrleaG5u037c61vLh6noX-Mux-5dQ&s"
 teaser: ""
 header: no
 permalink: "/collections/day3/"
