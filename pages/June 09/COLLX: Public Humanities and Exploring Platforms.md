@@ -53,5 +53,13 @@ When we regroup, we'll consider the follow questions:
 
 ### Exploring Tools
 
+### Fix the Fit
+Below are four digital projects that are robust and well-researched, but that don't fit particularly well with the platform they're hosted on. In your pairs, explore these projects amd identify what the current tool/platform is that runs the site. Note down what the issues with the fit between the content and the platform are. Then, find a platform (or a general type of platform/tool) that you think would be better suited to presenting the content or data included on the site.
+* [Statues Speak](https://projects.dahvc.org/statuesspeak/)
+* [Dispossession of the Haudenosaunee](https://storymaps.arcgis.com/stories/89ad3bc657e04cc6b474f83678ac4c13)
+* [Repeating Islands](https://repeatingislands.com/)
+* [The Learning Tree](https://scalar.usc.edu/works/gordon-parks/index)
+
+If you need a list of additional platforms to explore, see this [Collections platforms & tools list](https://digitalscholarship.library.cornell.edu/?p=1506). 
 
 ## Post-Activities
