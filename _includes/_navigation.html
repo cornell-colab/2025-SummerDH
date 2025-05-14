@@ -21,7 +21,7 @@
       <ul class="right">
         {% for link in site.data.navigation %}
 
-              {% if link.url contains 'http' %}
+              {% if link.url contains 'https' %}
                 {% assign domain = '' %}
               {% elsif link.url == '#' %}
                 {% assign domain = '' %}
@@ -75,7 +75,7 @@
       <ul class="left">
         {% for link in site.data.navigation %}
 
-              {% if link.url contains 'http' %}
+              {% if link.url contains 'https' %}
                 {% assign domain = '' %}
               {% elsif link.url == '#' %}
                 {% assign domain = '' %}
