@@ -11,8 +11,8 @@ permalink: "/collections/day6/"
 - [Ten Factors When Considering Tools](https://handsondataviz.org/tool-factors.html) by Jack Doughtery and Ilya Ilankyou
 - [About - Minimal Computing](https://go-dh.github.io/mincomp/about/) by GO::DH
 
+# Public Humanities
 ## Session Activities
-### Public Humanities
 
 
 <hr>
@@ -21,8 +21,7 @@ permalink: "/collections/day6/"
 
 <hr>
 
-### Exploring Platforms, Tools, and Software
-
+# Exploring Platforms, Tools, and Software
 ## Session Activities
 ### Your Data Plan
 As we've discussed, the humanities field employs has various different kinds of things, or data, to make arguments, tell stories, and answer research questions. As we move forward 
