@@ -31,4 +31,4 @@ Coming soon!
 * [React](https://react.dev/): A a JS library for building slick user interfaces.
 * [Google Fonts](https://fonts.google.com/): A library and API for fonts.
 
-<a class="tooltip">goog</a>
+<a class="tooltip"><span class="tooltiptext">lolololo</span>goog</a>
