@@ -63,3 +63,7 @@ Below are four digital projects that are robust and well-researched, but that do
 If you need a list of additional platforms to explore, see this [Collections platforms & tools list](https://digitalscholarship.library.cornell.edu/?p=1506). 
 
 ## Post-Activities
+### Readings:
+- [When Online Content Disappears](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/) by Pew
+- (Optional) [Endings Principles for Digital Longevity](https://endings.uvic.ca/principles.html#products)
+- [Static Web Methodology as a Sustainable Approach to Digital Humanities Projects](https://journal.code4lib.org/articles/18372) by Olivia Wikle and Evan Peter Williamson
