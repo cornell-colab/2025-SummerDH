@@ -14,7 +14,6 @@ permalink: "/collections/day6/"
 ## Session Activities
 ### Public Humanities
 
-<hr>
 
 <hr>
 
