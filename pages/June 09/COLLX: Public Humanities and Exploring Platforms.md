@@ -23,7 +23,7 @@ permalink: "/collections/day6/"
 
 # Exploring Platforms, Tools, and Software
 ## Session Activities
-### Your Data Plan
+### Your Data Plan (10 minutes)
 As we've discussed, the humanities field employs has various different kinds of things, or data, to make arguments, tell stories, and answer research questions. As we move forward 
 * What type of data do you have?
 * What kinds of research questions do you want to answer with your data?
@@ -36,7 +36,7 @@ As we've discussed, the humanities field employs has various different kinds of 
 * How much time and resources do you have to maintain the project?
 * What kinds of research questions do you want to answer?
 
-### Finding a Fit for You Data
+### Finding a Fit for You Data (10-15 minutes)
 In this activity, you're going to use your [assigned sample dataset]() to create a public-facing visualization or collections. From the list below, select the tool you think is best suited to use to present your data:
 * [DataWrapper](https://app.datawrapper.de/edit/ymjsw/upload)
 * [StoryMapJS](https://storymap.knightlab.com/)
