@@ -54,7 +54,7 @@ In this time, consider the following questions in relation to your project data 
 
 <hr>
 
-**Break**
+<p style="font-weight:bold; font-size:16pt;"> Break </p>
 
 <hr>
 
