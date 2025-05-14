@@ -39,7 +39,7 @@ Now that you're done, we're going to test your documentation. Give the person ne
 
 <hr>
 
-## Break
+**Break**
 
 <hr>
 
