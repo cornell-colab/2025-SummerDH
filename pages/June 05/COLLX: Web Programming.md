@@ -44,7 +44,7 @@ In pairs, find a module in any of the JavaScript libraries above and add it to a
 ### Editing Scripts (10 minutes)
 Sometimes you find a useful script, but need it to do something else or parse a dataset that it doesn't already do. This is when your reading and writing skills come in, as you'll need to edit the script to make it fit your purposes.
 
-Take the script you added in the last activity and edit something about its functionality, styles, or the dataset it pulls from.
+Take the script you added in the last activity and edit something about its functionality, styles, or the dataset it pulls from. 
 
 <hr>
 
@@ -61,11 +61,17 @@ In pairs for the twenty-five ten minutes, take the time to write a script for th
 * [Image carousel](https://github.com/kam535/sample-pages/blob/main/birds.html)
 * [Play/pause audio on click](https://github.com/kam535/sample-pages/blob/main/honks.html)
 
-
 ### Check-Ins (5 minutes)
 We've spent an hour doing a lot of programming, so let's check-in to see how we're feeling about what we've handled so far. What questions do you have? How are you feeling about the process of programming? What frustrations have come up? What do you wish you knew more about?
 
-###
+### Code Exploration (10 minutes)
+Often you might find a feature on your favourite webpage that you want to incorporate on your own site. It's useful to be able to "read' JavaScript, HTML, and CSS in this instance, since it means you can use your web developer tools to see how the code on that site functions.
+
+Below is a list of sites that include JavaScript. With your partner, go through each site and try to figure out what the JavaScript is doing on the site. What purpose does it serve? What functions does it have? What specific scripts/modules are being used?
+ * https://fitnycdigitalinitiatives.github.io/museum-timeline/
+ * https://mackerelmediafish.com/#
+ * https://johaknigiu.github.io/Digital-Videogame-Art-Scan-Project/
+ * https://kam535.github.io/fantastic-engine/
 
 ## References
 All programmers, regardless of how long they've been coding, rely on resource lists to help them write and debug their code. Here are a few that you can refer to when you're writing:
