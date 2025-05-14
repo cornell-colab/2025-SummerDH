@@ -1,6 +1,9 @@
 ---
 layout: page
-permalink: /web-programming-resources
+permalink: "/web-programming-resources/"
+title: "Web Programming Resources"
+teaser: ""
+header: no
 ---
 
 ## References
@@ -11,3 +14,9 @@ All programmers, regardless of how long they've been coding, rely on resource li
 * [CSS grid cheat sheet](https://alialaa.github.io/css-grid-cheat-sheet/)
 * [JS cheat sheet](https://htmlcheatsheet.com/js/)
 * Google searches for your problem that end in "JS Fiddle" or "Stack Overflow" are helpful. 
+
+## Lessons
+
+## Quizzes
+
+## Libraries
