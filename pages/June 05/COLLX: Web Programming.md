@@ -29,14 +29,17 @@ Before we start adding JavaScript, it's important to make sure we understand wha
 In this section, we'll go over what the HTML DOM is in relation to JavaScript, and how that can help us think about creating and executing scripts. <br>
 <img src="https://www.tutorialspoint.com/html/images/html_dom.jpg" height="400" style="text-align:center;">
 
-### Finding Scripts, or Writing Scripts
+### Finding and Using Scripts (10 minutes)
 Often when building a webpage, you won't have to write your own JavaScript, but can use scripts already written by other people. There are many free and open-source JavaScript libraries that you can add code from to your webpage. For example:
 * [D3](https://d3js.org/), a library for interactive data visualizations
 * [Anime.js](https://animejs.com/), a library for complex animations
 * [Leaflet](https://leafletjs.com/), a library for interactive maps
 * [Popper](https://floating-ui.com/?utm_source=popper.js.org), a library for pop-ups, tooltops, and dropdowns
+* [Bootstrap](https://getbootstrap.com/), a library for front-end HTML, CSS, and JS, mostly for static sites
 
-To add a script from a library to your page, you add <script type='text/javascript' src="SOURCE-LIBRARY-URL"> to the head of your HTML document.
+To add a script from a library to your page, you add a script tag <script type='text/javascript' src="SOURCE-LIBRARY-URL"> to the head of your HTML document. You'll then add the script to the body of your HTML document using script tags.
+
+In pairs, find a module in any of the JavaScript libraries above and add it to a new webpage in one of your GitHub repositories. Next, find a module not in one of the libraries above (use your awesome Googling skills) and add it to your webpage.
 
 ### Adding JavaScript (25 minutes building, 5 minute share-out)
 In pairs for the next ten minutes, take the time to write a script for the webpage you built yesterday that will change something in your CSS or HTML. The JS functions can do whatever you want, but it’s worth considering writing a script that may relate to your project. For example, Marijke might want to add a script that plays audio on clicking a piece of text. Nic might want to add a progress tracker of some sort. Brume might want to extract all of the titles of headings into a list. Gorka might want to make an image open up in a new tab on click. See the list below for an example of scripts you might want to considering editing or recreating:
