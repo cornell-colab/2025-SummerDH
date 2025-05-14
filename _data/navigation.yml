@@ -6,7 +6,7 @@
   side: left
   dropdown:
   - title: "List of Projects"
-    url: "https://digitalscholarship.library.cornell.edu/?p=1240"
+    link: "https://digitalscholarship.library.cornell.edu/?p=1240"
 
 - title: "All"
   url: "/modules/"
