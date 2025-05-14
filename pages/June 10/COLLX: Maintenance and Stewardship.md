@@ -83,3 +83,9 @@ Next, try archiving a webpage using Conifer. You can use the [login credentials 
 Because ArchiveBox takes some setup and knowledge of the command line, Kiran's going to give you a demo of what it looks like and how it works, both the CLI and Web UI.
 
 ## Post-Activities
+### Readings
+In preparation for our session on Artificial Intelligence (AI), please read the following:
+* Chapter 2: “Labor” in The Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence (Crawford, 2021)
+* “What is a Language Model and Why Should You Care?” (Paullada, 2023)
+* On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?” (Bender et al., 2021)
+* (Optional): For those interested in the water consumption of ChatGPT, see “Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water” (O’Brien & Fingerhut, 2023)
