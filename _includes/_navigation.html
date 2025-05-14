@@ -35,7 +35,14 @@
             {% if link.dropdown == nil %}
               <li class="divider"></li>
               <li{% if link.url == page.url %} class="active"{% elsif page.homepage == true and link.url == '/' %} class="active"{% endif %}><a href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a></li>
-
+              <li>
+                <a href="{{ '/cv.html' | prepend: site.baseurl }}" class="nav-list-link nav-lh">
+                    <span>
+                        <img src="https://i.redd.it/qieveg5m49z91.gif" width="45" height="25">
+                        cv
+                    </span>
+                </a>
+             </li>
             {% comment %}   If right side WITH dropdown menu do   {% endcomment %}
             {% else %}
 
