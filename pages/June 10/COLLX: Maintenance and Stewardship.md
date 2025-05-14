@@ -46,7 +46,14 @@ Now that you're done, we're going to test your documentation. Give the person ne
 ### Mini Lecture: Web Archiving (10 minutes)
 Web archiving is a process which can take many forms but most commonly involves making and storing “preserved copies of live web content collected for permanent retention and access”. Practically, this means creating a copy of all of the code behind a webpage and the way that code is displayed at a very specific point in time, with the intention of being able to access that capture of the webpage as-is in the future.
 
-## Exploring Archived Pages (5-10 minutes)
+### Exploring Archived Datasets (10 minutes)
+Below are four different archived datatsets. In pairs, go through each dataset and the original page it was located on. Determine whether the dataset has been fully-archived or partially archived. Either way, is there any missing from the original page? Does the dataset have adequate context? Can you tell where the dataset is from and what organization, institution, or agency published it?
+* [Original Site](https://ffiec.cfpb.gov/documentation/api/file-serving/) - [Dataset](https://s3.amazonaws.com/cfpb-hmda-public/prod/)
+* [Original Site](https://coast.noaa.gov/slrdata/) - [Dataset](https://www.arcgis.com/home/item.html?id=cab265835317461e818f13eabc242ed1)
+* [Original Site](https://www.vision.caltech.edu/datasets/cub_200_2011/) - [Dataset](https://archive.org/details/academictorrents_1a5a206de443085ff07ca9a47530f1bfadf526ba)
+* [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2008/10/ECCV_CAT_PROC.pdf) - [Dataset](https://archive.org/details/CAT_DATASET)
+
+### Exploring Archived Pages (10 minutes)
 Below are four different webpages. In pairs, go through each webpage below and determine whether the page has been fully-archived or only partially archived. If you think it's only partially-archived, what's missing? Why might that feature or section be missing? How does that affect your ability to use the webpage?
 
 * https://web.archive.org/web/20151011022403/http://www.augmentednotes.com/
