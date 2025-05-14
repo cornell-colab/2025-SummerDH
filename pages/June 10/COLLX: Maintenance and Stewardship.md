@@ -23,7 +23,7 @@ The readings talked about three main themes: the impermanence of online content,
 
 <hr>
 
-### Making a Timeline (10 minutes)
+### Making a Timeline (15 minutes)
 Click on [this link to a spreadsheet](https://docs.google.com/spreadsheets/d/1pHBvXN7nmGkiG8uQSUB82eNlnL8xHu6kydzH_-eguHQ/copy). When prompted, make a copy of the spreadsheet in your Google Drive. Now from this spreadsheet, create a public-facing interactive timeline. Yes, these are all the instructions.
 
 Let's debrief: how many of you successfully launched a timeline? Why or why not? For those who did, how did you figure it out? 
@@ -37,6 +37,21 @@ When you're done, write another short piece of documentation, this time for othe
 
 Now that you're done, we're going to test your documentation. Give the person next to you the URL for your script and your documentation.
 
-### Web Archiving
+<hr>
+
+## Break
+
+<hr>
+
+### Mini Lecture: Web Archiving (10 minutes)
+Web archiving is a process which can take many forms but most commonly involves making and storing “preserved copies of live web content collected for permanent retention and access”. Practically, this means creating a copy of all of the code behind a webpage and the way that code is displayed at a very specific point in time, with the intention of being able to access that capture of the webpage as-is in the future.
+
+## Exploring Archived Pages (5-10 minutes)
+Below are four different webpages. In pairs, go through each webpage below and determine whether the page has been fully-archived or only partially archived. If you think it's only partially-archived, what's missing? Why might that feature or section be missing?
+
+* https://web.archive.org/web/20151011022403/http://www.augmentednotes.com/
+* https://web.archive.org/web/20250117221843/https://sab.epa.gov/ords/sab/f?p=100:18:16490947993:::18:P18_ID:2601
+* https://perma.cc/89YQ-BY3Y
+* https://cornell-colab.github.io/assets/may-morris.wacz
 
 ## Post-Activities
