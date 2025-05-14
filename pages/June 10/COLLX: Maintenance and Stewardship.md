@@ -47,11 +47,11 @@ Now that you're done, we're going to test your documentation. Give the person ne
 Web archiving is a process which can take many forms but most commonly involves making and storing “preserved copies of live web content collected for permanent retention and access”. Practically, this means creating a copy of all of the code behind a webpage and the way that code is displayed at a very specific point in time, with the intention of being able to access that capture of the webpage as-is in the future.
 
 ## Exploring Archived Pages (5-10 minutes)
-Below are four different webpages. In pairs, go through each webpage below and determine whether the page has been fully-archived or only partially archived. If you think it's only partially-archived, what's missing? Why might that feature or section be missing?
+Below are four different webpages. In pairs, go through each webpage below and determine whether the page has been fully-archived or only partially archived. If you think it's only partially-archived, what's missing? Why might that feature or section be missing? How does that affect your ability to use the webpage?
 
 * https://web.archive.org/web/20151011022403/http://www.augmentednotes.com/
 * https://web.archive.org/web/20250117221843/https://sab.epa.gov/ords/sab/f?p=100:18:16490947993:::18:P18_ID:2601
 * https://perma.cc/89YQ-BY3Y
-* https://cornell-colab.github.io/assets/may-morris.wacz
+* https://cornell-colab.github.io/assets/may-morris.wacz (use [ReplayWeb](https://replayweb.page/) for this one)
 
 ## Post-Activities
