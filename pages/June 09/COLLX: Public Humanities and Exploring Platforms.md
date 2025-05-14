@@ -19,7 +19,7 @@ permalink: "/collections/day6/"
 
 **Break**
 
-<hr
+<hr>
 
 ### Exploring Platforms, Tools, and Software
 
