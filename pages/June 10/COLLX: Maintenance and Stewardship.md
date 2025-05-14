@@ -21,8 +21,6 @@ The readings talked about three main themes: the impermanence of online content,
 * Wikle and Williamson introduce the idea of planning for neglect — that is, anticipating that a research project will likely have tons of upfront work, and then largely be forgotten afterward. What do you think about this approach?
 * If what Wikle and Williamson say about the minimal and sustainable maintenance of static sites is true, why do you think dynamic sites (like Wix, Wordpress, Squarespace, etc.) are still so popular?
 
-<hr>
-
 ### Making a Timeline (15 minutes)
 Click on [this link to a spreadsheet](https://docs.google.com/spreadsheets/d/1pHBvXN7nmGkiG8uQSUB82eNlnL8xHu6kydzH_-eguHQ/copy). When prompted, make a copy of the spreadsheet in your Google Drive. Now from this spreadsheet, create a public-facing interactive timeline. Yes, these are all the instructions.
 
@@ -36,6 +34,8 @@ Now that we've talked about the importance of documentation, it's time for you t
 When you're done, write another short piece of documentation, this time for other coders trying to build a script like yours. How did you build your script? What steps did you take? What external resources did you use? What challenges did you face? If your script is unfinished, how might someone complete or finish your script? Again, be sure to include even the smallest details.
 
 Now that you're done, we're going to test your documentation. Give the person next to you the URL for your script and your documentation.
+
+### Other Activity (Forthcoming)
 
 <hr>
 
@@ -60,5 +60,10 @@ Below are four different webpages. In pairs, go through each webpage below and d
 * https://web.archive.org/web/20250117221843/https://sab.epa.gov/ords/sab/f?p=100:18:16490947993:::18:P18_ID:2601
 * https://perma.cc/89YQ-BY3Y
 * https://cornell-colab.github.io/assets/may-morris.wacz (use [ReplayWeb](https://replayweb.page/) for this one)
+
+### Archiving Pages Using the Internet Archive and Perma.cc
+
+
+### Archiving Pages Using ArchiveBox and Conifer
 
 ## Post-Activities
