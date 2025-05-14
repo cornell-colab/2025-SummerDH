@@ -30,3 +30,5 @@ Coming soon!
 * [Bootstrap](https://getbootstrap.com/): A a JS library for front-end HTML, CSS, and JS, mostly for static sites.
 * [React](https://react.dev/): A a JS library for building slick user interfaces.
 * [Google Fonts](https://fonts.google.com/): A library and API for fonts.
+
+<span data-tooltip aria-haspopup="true" class="has-tip" title="Tooltips are awesome, you should totally use them!">extended information</span>
