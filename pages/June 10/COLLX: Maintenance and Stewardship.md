@@ -53,7 +53,7 @@ In this time, consider the following questions in relation to your project data 
 * Will you need long-terms support from anyone else (a software company, a specific platform, a group of contributors, crowd-sourcing, etc.) to support preserving and sharing your data?
 
 <br>
-<p style="font-weight:bold; font-size:16pt;"> Break </p>
+<p style="font-weight:bold; font-size:16pt; text-align:center;"> Break </p>
 <br>
 
 ### Mini Lecture: Web Archiving (10 minutes)
