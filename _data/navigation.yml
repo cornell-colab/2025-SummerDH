@@ -5,8 +5,6 @@
 - title: Resources
   side: left
   dropdown:
-  - title: "List of Projects"
-    url: "https://digitalscholarship.library.cornell.edu/?p=1240"
   - title: "For Web Programming"
     url: "/web-programming-resources/"
 
