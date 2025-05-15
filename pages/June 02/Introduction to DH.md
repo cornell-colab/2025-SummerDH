@@ -48,3 +48,6 @@ Let's get to know each other and the platform we'll be using this summer!
 ### Introduction to Digital Humanities and Data as a Worldview (1 hour)
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQNhVrR1ihd8ipSpbEKCj6c5BCo6C9ZUvOXmddiRGxxgVoN-nK2n3G7CQdN3FTTztQxwciLPY05iiah/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+## Post-session Reflections
+1. Forum response: What kinds of sources, or “data,” do you use in your work? How does it feel to think about these sources as “data”? Describe how any of the projects you looked at or discussed today might inform how you approach your own project.
+
