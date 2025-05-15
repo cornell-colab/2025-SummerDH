@@ -19,9 +19,10 @@ And **View** [the photos of the installation on the artist's website](https://mi
 
 ### Assignment
 
-From the [list of projects](https://github.com/cornell-colab/2025-SummerDH/blob/main/pages/June%2002/List%20of%20Projects.md), choose one to three projects that interest you.  
-  
-You'll see that there is a category for Computational Text projects, and a category for Collections Projects, which is further divided into a subcollection of multi-year, funded projects created by large teams, and a subcollection of projects created by single investigators, usually students. If you decide to focus on the Collections projects, please choose at least one each of the team and the individual projects.  
+From the [list of projects](https://github.com/cornell-colab/2025-SummerDH/blob/main/pages/June%2002/List%20of%20Projects.md), choose 1 dataset and 2-3 projects that interest you. You'll see that there is a category for Computational Text projects, and a category for Collections Projects, which is further divided into a subcollection of multi-year, funded projects created by large teams, and a subcollection of projects created by single investigators, usually students. Try to pick at least one project from each of category. If you decide to focus on the Collections projects, please choose at least one each of the team and the individual projects.  
+
+### For the datasets:
+
 
 #### For each of your chosen projects:
  
