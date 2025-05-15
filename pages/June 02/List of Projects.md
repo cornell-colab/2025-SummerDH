@@ -4,7 +4,7 @@ subheadline: ""
 title: "List of DH Projects"
 teaser: ""
 header: no
-permalink: "list-of-projects"
+permalink: "/list-of-projects/"
 ---
 
 ## **Activity Instructions**
