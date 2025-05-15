@@ -34,7 +34,8 @@ You'll see that there is a category for Computational Text projects, and a categ
 * What are your questions about the project?
 
 ## Session Activities
-### Introductions and Getting to Know Us
-
+### Introductions and GitHub Intro
+Let's get to know each other and the platform we'll be using this summer!
+<br>
 ### Introduction to Digital Humanities and Data as a Worldview (1 hour)
 
