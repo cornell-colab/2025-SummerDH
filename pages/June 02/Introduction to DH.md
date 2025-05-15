@@ -50,4 +50,5 @@ Let's get to know each other and the platform we'll be using this summer!
 
 ## Post-session Reflections
 1. **Forum response:** What kinds of sources, or “data,” do you use in your work? How does it feel to think about these sources as “data”? Describe how any of the projects you looked at or discussed today might inform how you approach your own project.
+2. Review pre-session work for tomorrow.
 
