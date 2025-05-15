@@ -1,4 +1,4 @@
-# Digital Collections, Exhibits, & Directories
+# Digital Projects List
 ## **Activity Instructions**
 
 1. Pair up with a neighbor next to you.   
