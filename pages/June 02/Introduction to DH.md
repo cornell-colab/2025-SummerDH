@@ -16,12 +16,12 @@ From the [list of projects](https://github.com/cornell-colab/2025-SummerDH/blob/
   
 You'll see that there is a category for Computational Text projects, and a category for Collections Projects, which is further divided into a subcollection of multi-year, funded projects created by large teams, and a subcollection of projects created by single investigators, usually students. If you decide to focus on the Collections projects, please choose at least one each of the team and the individual projects.  
 
-### For each of your chosen projects,
+#### For each of your chosen projects:
  
 1. Read through and interact with the project until you have a good feeling for the project’s scope, goals, and capabilities.
 2. Read any associated “About” information to get a sense of the who the project’s creators are (and how many of them there are), what tools were used in the creation, what its data sources are, and any sources of funding.
 
-### A few questions to consider:
+#### A few questions to consider:
 * Who is the intended audience of the project? Scholarly researchers, students, general public, a combination?  
 * Is the project primarily meant as a secondary source -- the presentation of original research, much like an analog book or article? Or is it meant to be used as primary material for others’ research or creative work? Or is it some combination of these two types?  
 * How might the project be used to generate new research questions? New answers? 
@@ -33,8 +33,8 @@ You'll see that there is a category for Computational Text projects, and a categ
 * In what ways do find the project successful or unsuccessful?
 * What are your questions about the project?
 
+## Session Activities
+### Introductions and Getting to Know Us
 
-## Introductions and Getting to Know Us
-
-## Introduction to Digital Humanities and Data as a Worldview (1 hour)
+### Introduction to Digital Humanities and Data as a Worldview (1 hour)
 
