@@ -1,4 +1,12 @@
-# Digital Projects List
+---
+layout: page
+subheadline: ""
+title: "List of DH Projects"
+teaser: ""
+header: no
+permalink: "list-of-projects"
+---
+
 ## **Activity Instructions**
 
 1. Pair up with a neighbor next to you.   
