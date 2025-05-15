@@ -14,7 +14,7 @@ This short post is about datasets used in machine learning. But the idea that a 
 * Onouha, M. (2016). "[On Missing Datasets](https://github.com/MimiOnuoha/missing-datasets)," documentation of a mixed media art installation.  
 And **View** [the photos of the installation on the artist's website](https://mimionuoha.com/the-library-of-missing-datasets).
 
-* D’Ignazio C. and L. Klein (2020). “[The Numbers Don’t Speak for Themselves](https://direct.mit.edu/books/book/4660/chapter/213291/The-Numbers-Don-t-Speak-for-Themselves),” In _Data Feminism_, MIT Press.
+* D’Ignazio C. and L. Klein (2020). “[The Numbers Don’t Speak for Themselves](https://direct.mit.edu/books/book/4660/chapter/213291/The-Numbers-Don-t-Speak-for-Themselves),” In _Data Feminism_, MIT Press. 
 
 
 ### Assignment
