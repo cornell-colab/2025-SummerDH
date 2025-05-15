@@ -7,6 +7,8 @@
   dropdown:
   - title: "For Web Programming"
     url: "/web-programming-resources/"
+  - title: "List of DH Projects"
+    url: "/list-of-projects/"
 
 - title: "All"
   url: "/modules/"
