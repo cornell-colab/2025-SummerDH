@@ -12,7 +12,7 @@ permalink: "/modules/day1/"
 
 ### Assignment
 
-From the [list of projects](https://github.com/cornell-colab/2025-SummerDH/pages/June%20%02/List%20%of%20%Projects.md), choose one to three projects that interest you.  
+From the [list of projects](https://github.com/cornell-colab/2025-SummerDH/blob/main/pages/June%2002/List%20of%20Projects.md), choose one to three projects that interest you.  
   
 You'll see that there is a category for Computational Text projects, and a category for Collections Projects, which is further divided into a subcollection of multi-year, funded projects created by large teams, and a subcollection of projects created by single investigators, usually students. If you decide to focus on the Collections projects, please choose at least one each of the team and the individual projects.  
 
