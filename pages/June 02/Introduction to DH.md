@@ -7,7 +7,7 @@ header: no
 permalink: "/modules/day1/"
 ---
 ## Pre-Activities (Before the Session)
-### Readings
+### Readings (draft)
 * Davis, H. (2019). "[A Dataset is a Worldview](https://towardsdatascience.com/a-dataset-is-a-worldview-5328216dd44d)," a blog post on *Towards Data Science*, a *Medium* vertical.  
 This short post is about datasets used in machine learning. But the idea that a dataset reflects a worldview is just as relevant to the creation of metadata schema as to corpus creation. 
 
