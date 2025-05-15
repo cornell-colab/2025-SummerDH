@@ -60,6 +60,8 @@ permalink: "/list-of-projects/"
    Joshua Kotin, Rebecca Sutton Koeser, & Team  
 * [Visualizing Caribbean Literature](https://createcaribbean.org/vcl/home/)  
   [Dr. Schuyler Esprit](https://schuyleresprit.com/esprit/) and Team
+* [Top 500 “Greatest” Novels (1021-2015)](https://www.responsible-datasets-in-context.com/posts/top-500-novels/top-500-novels.html), Melanie Walsh and Os Keyes
+* [African American Periodical Poetry (1900-1928)](https://www.responsible-datasets-in-context.com/posts/african-american-periodical-poetry/aa-periodical-poetry.html), Amardeep Singh and Kate Hennessey 
 
 #### Text
 
@@ -93,8 +95,7 @@ permalink: "/list-of-projects/"
 
 #### Networks
 
-* [Editorial Networks of the Antebellum African American Press](http://jim-casey.com/enap/)  
-   Jim Casey (University of Delaware English)
+* [Editorial Networks of the Antebellum African American Press](http://jim-casey.com/enap/), Jim Casey
 
 #### Digital Collections, Digital Exhibits, Digital Publishing
 
