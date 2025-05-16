@@ -9,9 +9,8 @@ permalink: "/list-of-projects/"
 
 ## **Activity Instructions**
 
-1. Pair up with a neighbor next to you.   
-2. Browse at least two different projects from the **project list**. Be sure to review any “about” or “mission” pages for context on the projects. The answers may not be clear, or they may not be explicitly stated at all. Note that, as well.   
-3. Consider the following questions when examining each project:  
+1. Browse at least two different projects from the project list. Be sure to review any “about” or “mission” pages for context on the projects. The answers may not be clear, or they may not be explicitly stated at all. Note that, as well.   
+2. Consider the following questions when examining each project:  
    1. **Sources**: What are the sources/”data” used in this project? What do we know about how the data was collected or created? Is the data available to download for others to use?   
    2. **Processing:** How were the sources rendered into digital formats? Did they come from an already-existing collection, or did the researcher(s) collect them?   
    3. **Presentation**: What methods of analysis does the project use, if any? What types of visualizations of sources/data does the project present?  Does the project team make any arguments or claims based on how the sources were processed, analyzed and presented?  
