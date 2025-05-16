@@ -52,18 +52,18 @@ permalink: "/list-of-projects/"
 
 #### Datasets & Databases
 
+* [Top 500 “Greatest” Novels (1021-2015)](https://www.responsible-datasets-in-context.com/posts/top-500-novels/top-500-novels.html), Melanie Walsh and Os Keyes
+* [African American Periodical Poetry (1900-1928)](https://www.responsible-datasets-in-context.com/posts/african-american-periodical-poetry/aa-periodical-poetry.html), Amardeep Singh and Kate Hennessey 
 * [Photogrammar](http://photogrammar.yale.edu/) (Photos taken by U.S. Farm Security Administration and Office of War Information, 1935-1945) (Be sure to check out the "Labs" section.)  
-   Laura Wexler, Lauren Tilton, Taylor Arnold, & Team  
+   Laura Wexler, Lauren Tilton, Taylor Arnold, & Team
+* [Visualizing Caribbean Literature](https://createcaribbean.org/vcl/home/)  
+  [Dr. Schuyler Esprit](https://schuyleresprit.com/esprit/) and Team
 * [China Biographical Database Project](https://projects.iq.harvard.edu/cbdb)  
    Harvard University, Academia Sinica, & Peking University  
 * [Freedom on the Move](http://freedomonthemove.org): A database of self-liberating people from American Slavery  
    Ed Baptist & Team  
 * [Shakespeare and Company: Recreating the world of the Lost Generation in interwar Paris](https://shakespeareandco.princeton.edu/)  
    Joshua Kotin, Rebecca Sutton Koeser, & Team  
-* [Visualizing Caribbean Literature](https://createcaribbean.org/vcl/home/)  
-  [Dr. Schuyler Esprit](https://schuyleresprit.com/esprit/) and Team
-* [Top 500 “Greatest” Novels (1021-2015)](https://www.responsible-datasets-in-context.com/posts/top-500-novels/top-500-novels.html), Melanie Walsh and Os Keyes
-* [African American Periodical Poetry (1900-1928)](https://www.responsible-datasets-in-context.com/posts/african-american-periodical-poetry/aa-periodical-poetry.html), Amardeep Singh and Kate Hennessey 
 
 #### Text
 
