@@ -7,22 +7,23 @@ header: no
 permalink: "/modules/day1/"
 ---
 ## Pre-Activities (Before the Session)
-### Readings (draft)
+
+### Readings
 * Davis, H. (2019). "[A Dataset is a Worldview](https://towardsdatascience.com/a-dataset-is-a-worldview-5328216dd44d)," a blog post on *Towards Data Science*, a *Medium* vertical.  
 This short post is about datasets used in machine learning. But the idea that a dataset reflects a worldview is just as relevant to the creation of metadata schema as to corpus creation. 
 
 * Onouha, M. (2016). "[On Missing Datasets](https://github.com/MimiOnuoha/missing-datasets)," documentation of a mixed media art installation.  
 And **View** [the photos of the installation on the artist's website](https://mimionuoha.com/the-library-of-missing-datasets).
 
-* D’Ignazio C. and L. Klein (2020). “[The Numbers Don’t Speak for Themselves](https://direct.mit.edu/books/book/4660/chapter/213291/The-Numbers-Don-t-Speak-for-Themselves),” In _Data Feminism_, MIT Press. 
+* D’Ignazio C. and L. Klein (2020). “[The Numbers Don’t Speak for Themselves](https://direct.mit.edu/books/book/4660/chapter/213291/The-Numbers-Don-t-Speak-for-Themselves),” In _Data Feminism_, MIT Press.
 
+* Posner, M. (2018). [Digital Humanities](https://catalog.library.cornell.edu/catalog/11352860). In M. Kackman, M. C. Kearney, & M. Kackman (Eds.), The craft of criticism: Critical media studies in practice. Routledge. 
 
 ### Assignment
 
-From the [list of projects](https://github.com/cornell-colab/2025-SummerDH/blob/main/pages/June%2002/List%20of%20Projects.md), choose 1 dataset and 2-3 projects that interest you. You'll see that there is a category for Computational Text projects, and a category for Collections Projects, which is further divided into a subcollection of multi-year, funded projects created by large teams, and a subcollection of projects created by single investigators, usually students. Try to pick at least one project from each of category. If you decide to focus on the Collections projects, please choose at least one each of the team and the individual projects.  
+From the [list of projects](https://github.com/cornell-colab/2025-SummerDH/blob/main/pages/June%2002/List%20of%20Projects.md), choose 2-3 projects that interest you. You'll see that there is a category for Computational Text projects, and a category for Collections Projects, which is further divided into a subcollection of multi-year, funded projects created by large teams, and a subcollection of projects created by single investigators, usually students. If you decide to focus on the Collections projects, please choose at least one each of the team and the individual projects. Review the questions accompanying the list and come to the first session prepared to share.
 
 ### For the datasets:
-
 
 #### For each of your chosen projects:
  
