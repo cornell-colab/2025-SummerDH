@@ -6,17 +6,20 @@ teaser: ""
 header: no
 permalink: "/list-of-projects/"
 ---
+#### For each of your chosen projects:
+
+#### A few questions to consider:
 
 ## **Activity Instructions**
 
-1. Browse at least two different projects from the project list. Be sure to review any “about” or “mission” pages for context on the projects. The answers may not be clear, or they may not be explicitly stated at all. Note that, as well.   
-2. Consider the following questions when examining each project:  
+1. Read through and interact with at two or three different projects from the project list until you have a good feeling for the project’s scope, goals, and capabilities. Be sure to review any “about” or “mission” pages for context on the projects: who the project’s creators are (and how many of them there are), what tools were used in the creation, what its data sources are, and any sources of funding. The answers may not be clear, or they may not be explicitly stated at all. Note that, as well.   
+2. Consider any of the following questions when examining each project:  
    1. **Sources**: What are the sources/”data” used in this project? What do we know about how the data was collected or created? Is the data available to download for others to use?   
    2. **Processing:** How were the sources rendered into digital formats? Did they come from an already-existing collection, or did the researcher(s) collect them?   
-   3. **Presentation**: What methods of analysis does the project use, if any? What types of visualizations of sources/data does the project present?  Does the project team make any arguments or claims based on how the sources were processed, analyzed and presented?  
-   4. **Context:** Who created this project, and why? What other context is important for understanding how this project was developed?  
-   5. **Audience:** Is there a clear intended audience(s) for this project? How do you know?  
-   6. **Questions:** What questions do you have after looking at these projects?
+   3. **Presentation**: What methods of analysis does the project use, if any? What types of visualizations of sources/data does the project present? What tools or methods did they use to create the visualizations? Does the project team make any arguments or claims based on how the sources were processed, analyzed and presented?  
+   4. **Context:** Who created this project, and why? What other context is important for understanding how this project was developed? If applicable, what explicit choices have the project's leaders made about principles governing the project's labor practices, community engagement, and data curation?  
+   5. **Audience:** Is there a clear intended audience(s) for this project (such as scholarly researchers, students, general public, or a combination)? How do you know?  
+   6. **Questions:** What questions do you have after looking at these projects? How might the project be used to generate new research questions?
 <br>
 
 ## **Digital projects list**
