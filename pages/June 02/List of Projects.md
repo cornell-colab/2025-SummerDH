@@ -58,6 +58,7 @@ permalink: "/list-of-projects/"
    Laura Wexler, Lauren Tilton, Taylor Arnold, & Team
 * [Visualizing Caribbean Literature](https://createcaribbean.org/vcl/home/)  
   [Dr. Schuyler Esprit](https://schuyleresprit.com/esprit/) and Team
+* [Gender Violence at the Border, 1993-1998](https://www.responsible-datasets-in-context.com/posts/gender-violence/), Sylvia Fernández and Paulina Hernandez Trejo 
 * [China Biographical Database Project](https://projects.iq.harvard.edu/cbdb)  
    Harvard University, Academia Sinica, & Peking University  
 * [Freedom on the Move](http://freedomonthemove.org): A database of self-liberating people from American Slavery  
@@ -111,7 +112,3 @@ permalink: "/list-of-projects/"
    Charline Jao (Cornell, Literatures in English)  
 * [East Bay Punk Digital Archive](https://eastbaypunkda.com/s/east-bay-punk-digital-archive/page/home)  
    Stefano Merello (CUNY \- Graduate Center)
-
-
-
-
