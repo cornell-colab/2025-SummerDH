@@ -46,11 +46,14 @@ Sometimes you find a useful script, but need it to do something else or parse a 
 
 Take the script you added in the last activity and edit something about its functionality, styles, or the dataset it pulls from. 
 
+<br>
 <hr>
 
-### Break (15 minutes)
+<p style="font-weight:bold; font-size:16pt; text-align:center;"> Break (15 minutes) </p>
 
 <hr>
+<br>
+
 
 ### Adding JavaScript (25 minutes building, 5 minute share-out)
 In pairs for the twenty-five ten minutes, take the time to write a script for the webpage you built yesterday that will change something in your CSS or HTML. The JS functions can do whatever you want, but it’s worth considering writing a script that may relate to your project. For example, Marijke might want to add a script that plays audio on clicking a piece of text. Nic might want to add a progress tracker of some sort. Brume might want to extract all of the titles of headings into a list. Gorka might want to make an image open up in a new tab on click. See the list below for an example of scripts you might want to considering editing or recreating:
