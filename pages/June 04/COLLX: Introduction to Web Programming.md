@@ -34,6 +34,7 @@ In the next ten minutes, take the time to write your own webpage in a GitHub rep
 For help and reference, use [W3 Schools HTML elements reference page](https://www.w3schools.com/tags/) and [CSS reference page](https://www.w3schools.com/w3css/w3css_references.asp).
 
 ### References
+Throughout this lesson, feel free to refer to the [Resourecs > For Web Programming](https://cornell-colab.github.io/2025-SummerDH/web-programming-resources/) page to see references and helpful tools. 
 
 ## Post-Activities
 Tomorrow we’ll be talking more about JavaScript. To get a basic grasp of how JS works with HTML and CSS to power website elements, read the “What is JavaScript?” and “JavaScript walkthrough” sections of Mozilla’s MDN web docs [Dynamic scripting with JavaScript](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting) documentation.
