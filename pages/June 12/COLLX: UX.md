@@ -72,7 +72,7 @@ People forget how much the web costs. In the next five minutes, look up how much
 <br>
 You can pick any web host or domain service you want, except GitHub Pages or Netlify.
 
-#### &#1F332;
+#### Environmental Sustainability
 Websites have environmental costs too. Run your GitHub pages website and the 2025 Summer DH website through the [Website Carbon Calculator](https://www.websitecarbon.com/). Then run a social media site like Instagram. What are the results?
 
 ### Check-In, Catch Up, and Questions (30 minutes)
