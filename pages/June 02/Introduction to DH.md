@@ -24,6 +24,8 @@ And **View** [the photos of the installation on the artist's website](https://mi
 Let's get to know each other and the platform we'll be using this summer!
 <br>
 ### Introduction to Digital Humanities and Data as a Worldview (1 hour)
+[List of Projects](https://cornell-colab.github.io/2025-SummerDH/list-of-projects/)
+<br>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQNhVrR1ihd8ipSpbEKCj6c5BCo6C9ZUvOXmddiRGxxgVoN-nK2n3G7CQdN3FTTztQxwciLPY05iiah/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Post-session Reflections
