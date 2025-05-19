@@ -5,6 +5,18 @@ title: "Web Programming Resources"
 teaser: ""
 header: no
 ---
+<style>
+  .live-preview-box{
+    display: none;
+    width: 100%;
+}
+
+a:hover + .live-preview-box,.live-preview-box:hover{
+    display: block;
+    position: relative;
+    z-index: 100;
+}
+</style>
 
 ## References
 All programmers, regardless of how long they've been coding, rely on resource lists to help them write and debug their code. Here are a few that you can refer to when you're writing:
@@ -16,10 +28,8 @@ All programmers, regardless of how long they've been coding, rely on resource li
 * Google searches for your problem that end in "JS Fiddle" or "Stack Overflow" are helpful. 
 
 ## Learning Platforms
-Coming soon!
-<br>
-## Quizzes
-Coming soon!
+* [W3 Schools Online Web Tutorials](https://www.w3schools.com/)
+* 
 <br>
 ## Libraries
 * [SVG Repo](https://www.svgrepo.com/): A library of free svg icons and vectors.
@@ -31,4 +41,14 @@ Coming soon!
 * [React](https://react.dev/): A a JS library for building slick user interfaces.
 * [Google Fonts](https://fonts.google.com/): A library and API for fonts.
 
-<span data-tooltip aria-haspopup="true" class="has-tip" title="Tooltips are awesome, you should totally use them!">extended information</span>
+## Accessibility Checkers
+* [WCAG Color Constrast Checker](https://www.skynettechnologies.com/color-contrast-checker)
+* [Free Accessibility Checker](https://www.skynettechnologies.com/accessibility-checker)
+* [W3 Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/test-evaluate/tools/list/)
+
+This live preview for <a href="https://en.wikipedia.org/">Wikipedia</a>
+  <div class="box">
+    <iframe src="https://en.wikipedia.org/" width = "500px" height = "500px">
+    </iframe>
+  </div> 
+remains open on mouseover.
