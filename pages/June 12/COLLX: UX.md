@@ -60,7 +60,8 @@ Let's work together to fix the accessibility issues on the fellowship website! U
 <br>
 <hr>
 
+### Check-In, Catch Up, and Questions (40 minutes)
+Given that this is our last workshop session before co-working begins next week, let's take some time to debrief, field any questions or concerns you have, tease out what you've learned so far, and figure out what particular resources might be helpful for you as you move forward into starting your projects. This is a time to ask questions, of the CoLab team, the other fellows, and yourselves, and to check-in with how you're doing mentally, physically, and with the "shoving lots of stuff in your brain at once" thing. 
 
-
-All of the tools we tested in this section are available in the Resources > For Web Programming page on this site.
 ## Post-Activities
+Sign up for a 1:1 meeting slot by editing the 1:1 meetings page on this site.
