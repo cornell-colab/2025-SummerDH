@@ -66,12 +66,11 @@ People forget how much the web costs. In the next five minutes, look up how much
 * Purchase a custom domain for a website.
 * Host your website.
 * Use your custom domain on your website.
-
-#### 
-
-&#1F332;
 <br>
 You can pick any web host or domain service you want, except GitHub Pages or Netlify.
+
+#### &#1F332;
+Websites have environmental costs too. Run your GitHub pages website and the 2025 Summer DH website through the [Website Carbon Calculator](https://www.websitecarbon.com/). Then run a social media site like Instagram. What are the results?
 
 ### Check-In, Catch Up, and Questions (30 minutes)
 Given that this is our last workshop session before co-working begins next week, let's take some time to debrief, field any questions or concerns you have, tease out what you've learned so far, and figure out what particular resources might be helpful for you as you move forward into starting your projects. This is a time to ask questions, of the CoLab team, the other fellows, and yourselves, and to check-in with how you're doing mentally, physically, and with the "shoving lots of stuff in your brain at once" thing. 
