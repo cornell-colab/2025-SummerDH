@@ -28,7 +28,9 @@ In pairs, go through the sites below and ask yourselves the following questions:
 2. What accessibility needs does this site not meet?
 3. Is the UI static or dynamic?
 4. Is the UX fixable, or would the whole thing need to be scrapped to fix the issues?
+   
 <br>
+
 * [https://www.art.yale.edu/](https://www.art.yale.edu/)
 * [https://goulartnogueira.github.io/BadUI/ScientificDatePicker/](https://goulartnogueira.github.io/BadUI/ScientificDatePicker/)
 * [https://contrast-ratio.org/](https://contrast-ratio.org/)
@@ -66,6 +68,7 @@ People forget how much the web costs. In the next five minutes, look up how much
 * Purchase a custom domain for a website.
 * Host your website.
 * Use your custom domain on your website.
+
 <br>
 You can pick any web host or domain service you want, except GitHub Pages or Netlify.
 
