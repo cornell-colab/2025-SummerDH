@@ -5,19 +5,6 @@ title: "Web Programming Resources"
 teaser: ""
 header: no
 ---
-<style>
-  .live-preview-box{
-    display: none;
-    width: 100%;
-}
-
-a:hover + .live-preview-box,.live-preview-box:hover{
-    display: block;
-    position: relative;
-    z-index: 100;
-}
-</style>
-
 ## References
 All programmers, regardless of how long they've been coding, rely on resource lists to help them write and debug their code. Here are a few that you can refer to when you're writing:
 * [W3 Schools JavaScript examples](https://www.w3schools.com/js/js_examples.asp)
@@ -29,8 +16,7 @@ All programmers, regardless of how long they've been coding, rely on resource li
 
 ## Learning Platforms
 * [W3 Schools Online Web Tutorials](https://www.w3schools.com/)
-* 
-<br>
+
 ## Libraries
 * [SVG Repo](https://www.svgrepo.com/): A library of free svg icons and vectors.
 * [D3](https://d3js.org/): A JS library for interactive data visualizations.
@@ -45,10 +31,3 @@ All programmers, regardless of how long they've been coding, rely on resource li
 * [WCAG Color Constrast Checker](https://www.skynettechnologies.com/color-contrast-checker)
 * [Free Accessibility Checker](https://www.skynettechnologies.com/accessibility-checker)
 * [W3 Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/test-evaluate/tools/list/)
-
-This live preview for <a href="https://en.wikipedia.org/">Wikipedia</a>
-  <div class="box">
-    <iframe src="https://en.wikipedia.org/" width = "500px" height = "500px">
-    </iframe>
-  </div> 
-remains open on mouseover.
