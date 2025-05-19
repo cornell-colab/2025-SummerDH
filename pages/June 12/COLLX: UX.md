@@ -67,7 +67,9 @@ People forget how much the web costs. In the next five minutes, look up how much
 * Host your website.
 * Use your custom domain on your website.
 
-#### &#1F332;
+#### 
+
+&#1F332;
 <br>
 You can pick any web host or domain service you want, except GitHub Pages or Netlify.
 
