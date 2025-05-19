@@ -51,7 +51,9 @@ When we regroup, we'll consider the follow questions:
 * What kinds of research questions does this tool help you answer with the dataset?
 * Does the tool capture or represent all facets of the dataset (all fields and values)? Why or why not?
 
-### Exploring Tools
+### Exploring Tools (10 minutes)
+On your own, explore the list of Collections & exhibits tools in this list of [Collections platforms & tools](https://digitalscholarship.library.cornell.edu/?p=1506). Pick a tool that you find particularly compelling, then find one example of a project that you feel uses that tool well (hint: use Google or [our list of digital projects](https://digitalscholarship.library.cornell.edu/?p=1240)). Be prepared to share out!
+
 
 ### Fix the Fit (10-15 minutes)
 Below are four digital projects that are robust and well-researched, but that don't fit particularly well with the platform they're hosted on. In your pairs, explore these projects amd identify what the current tool/platform is that runs the site. Note down what the issues with the fit between the content and the platform are. Then, find a platform (or a general type of platform/tool) that you think would be better suited to presenting the content or data included on the site.
