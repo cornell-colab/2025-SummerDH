@@ -19,10 +19,6 @@ And **View** [the photos of the installation on the artist's website](https://mi
 
 * Posner, M. (2018). [Digital Humanities](https://catalog.library.cornell.edu/catalog/11352860). In M. Kackman, M. C. Kearney, & M. Kackman (Eds.), The craft of criticism: Critical media studies in practice. Routledge. 
 
-### Assignment
-
-From the [list of projects](https://github.com/cornell-colab/2025-SummerDH/blob/main/pages/June%2002/List%20of%20Projects.md), choose 2-3 projects that interest you. You'll see that there is a category for Computational Text projects, and a category for Collections Projects, which is further divided into a subcollection of multi-year, funded projects created by large teams, and a subcollection of projects created by single investigators, usually students. If you decide to focus on the Collections projects, please choose at least one each of the team and the individual projects. Review the questions accompanying the list and come to the first session prepared to share.
-
 ## Session Activities
 ### Introductions and GitHub Intro
 Let's get to know each other and the platform we'll be using this summer!
