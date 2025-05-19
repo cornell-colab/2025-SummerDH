@@ -21,8 +21,6 @@ The readings talked about three main themes: the impermanence of online content,
 * Wikle and Williamson introduce the idea of planning for neglect — that is, anticipating that a research project will likely have tons of upfront work, and then largely be forgotten afterward. What do you think about this approach?
 * If what Wikle and Williamson say about the minimal and sustainable maintenance of static sites is true, why do you think dynamic sites (like Wix, Wordpress, Squarespace, etc.) are still so popular?
 
-### 
-
 ### Making a Timeline (15 minutes)
 Click on [this link to a spreadsheet](https://docs.google.com/spreadsheets/d/1pHBvXN7nmGkiG8uQSUB82eNlnL8xHu6kydzH_-eguHQ/copy). When prompted, make a copy of the spreadsheet in your Google Drive. Now from this spreadsheet, create a public-facing interactive timeline. Yes, these are all the instructions.
 
