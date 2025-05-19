@@ -54,13 +54,14 @@ If there are any accessibility issues you need to address, do so now. Then, run 
 Now, let's run the 2025 Summer DH Fellowship website through the same checks and see how embarrassed Kiran will be. What are the results? <br>
 Let's work together to fix the accessibility issues on the fellowship website! Use the resources below for help, or visit the [`Resources > For Web Programming`](https://cornell-colab.github.io/2025-SummerDH/web-programming-resources/) page on this site.
 
-<hr>
-<br> 
-
-**Break (15 minutes)** 
-
 <br>
 <hr>
+
+<p style="font-weight:bold; font-size:16pt; text-align:center;"> Break (15 minutes) </p>
+
+<hr>
+<br>
+
 
 ### Notes on Accessibility and Maintenance
 #### $$$ (5 minutes)
@@ -69,7 +70,6 @@ People forget how much the web costs. In the next five minutes, look up how much
 * Host your website.
 * Use your custom domain on your website.
 
-<br>
 You can pick any web host or domain service you want, except GitHub Pages or Netlify.
 
 #### Environmental Sustainability
