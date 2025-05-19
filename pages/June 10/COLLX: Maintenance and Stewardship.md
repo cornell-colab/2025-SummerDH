@@ -14,12 +14,14 @@ permalink: "/collections/day7/"
 - [Static Web Methodology as a Sustainable Approach to Digital Humanities Projects](https://journal.code4lib.org/articles/18372) by Olivia Wikle and Evan Peter Williamson
 
 ## Session Activities
-### Discussion (15 minutes)
+### Discussion (10-15 minutes)
 The readings talked about three main themes: the impermanence of online content, sustainable/minimal computing, and the static web. Here are a couple of questions we can work through together:
 * Did anything surprise you about the Pew reading? Why or why not?
 * The Pew study gives a lot of data about how much content is disappearing. But it doesn't say why this is disappearing. Any guesses or ideas about why online content disappears? What factors do you think contribute to whether something slips from the web or not?
 * Wikle and Williamson introduce the idea of planning for neglect — that is, anticipating that a research project will likely have tons of upfront work, and then largely be forgotten afterward. What do you think about this approach?
 * If what Wikle and Williamson say about the minimal and sustainable maintenance of static sites is true, why do you think dynamic sites (like Wix, Wordpress, Squarespace, etc.) are still so popular?
+
+### 
 
 ### Making a Timeline (15 minutes)
 Click on [this link to a spreadsheet](https://docs.google.com/spreadsheets/d/1pHBvXN7nmGkiG8uQSUB82eNlnL8xHu6kydzH_-eguHQ/copy). When prompted, make a copy of the spreadsheet in your Google Drive. Now from this spreadsheet, create a public-facing interactive timeline. Yes, these are all the instructions.
@@ -53,7 +55,7 @@ In this time, consider the following questions in relation to your project data 
 * Will you need long-terms support from anyone else (a software company, a specific platform, a group of contributors, crowd-sourcing, etc.) to support preserving and sharing your data?
 
 <br>
-<p style="font-weight:bold; font-size:16pt; text-align:center;"> Break </p>
+<p style="font-weight:bold; font-size:16pt; text-align:center;"> Break (15 minutes) </p>
 <br>
 
 ### Mini Lecture: Web Archiving (10 minutes)
@@ -81,6 +83,7 @@ Next, try archiving a webpage using Conifer. You can use the [login credentials 
 
 #### ArchiveBox Demo
 Because ArchiveBox takes some setup and knowledge of the command line, Kiran's going to give you a demo of what it looks like and how it works, both the CLI and Web UI.
+
 
 ## Post-Activities
 ### Readings
