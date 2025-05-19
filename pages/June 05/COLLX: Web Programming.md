@@ -67,11 +67,11 @@ We've spent an hour doing a lot of programming, so let's check-in to see how we'
 ### Code Exploration (10 minutes)
 Often you might find a feature on your favourite webpage that you want to incorporate on your own site. It's useful to be able to "read' JavaScript, HTML, and CSS in this instance, since it means you can use your web developer tools to see how the code on that site functions.
 
-Below is a list of sites that include JavaScript. With your partner, go through each site and try to figure out what the JavaScript is doing on the site. What purpose does it serve? What functions does it have? What specific scripts/modules are being used?
- * https://fitnycdigitalinitiatives.github.io/museum-timeline/
- * https://mackerelmediafish.com/#
- * https://johaknigiu.github.io/Digital-Videogame-Art-Scan-Project/
- * https://kam535.github.io/fantastic-engine/
+Below is a list of sites that include JavaScript. With your partner, go through each site and try to figure out what the JavaScript is doing on the site. What purpose does it serve? What functions does it have? How does it work? What specific scripts/modules are being used? What CSS and HTML is being changed?
+ * [https://fitnycdigitalinitiatives.github.io/museum-timeline/](https://fitnycdigitalinitiatives.github.io/museum-timeline/)
+ * [https://mackerelmediafish.com/#](https://mackerelmediafish.com/#)
+ * [https://johaknigiu.github.io/Digital-Videogame-Art-Scan-Project/](https://johaknigiu.github.io/Digital-Videogame-Art-Scan-Project/)
+ * [https://kam535.github.io/fantastic-engine/](https://kam535.github.io/fantastic-engine/)
 
 ## References
 All programmers, regardless of how long they've been coding, rely on resource lists to help them write and debug their code. Here are a few that you can refer to when you're writing:
