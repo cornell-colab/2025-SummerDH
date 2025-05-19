@@ -15,11 +15,14 @@ permalink: "/collections/day6/"
 ## Session Activities
 
 
+<br>
 <hr>
 
-**Break**
+<p style="font-weight:bold; font-size:16pt; text-align:center;"> Break (15 minutes) </p>
 
 <hr>
+<br>
+
 
 # Exploring Platforms, Tools, and Software
 ## Session Activities
