@@ -55,7 +55,7 @@ The **Summer Digital Humanities Showcase (Thursday, July 10), 10am-3pm at the A.
 | 1 | **June 2**: Intro to Data and DH | **June 3**: Subcohort kickoff  | **June 4**: How the Internet Works / Subcohort sessions | **June 5**: Subcohort sessions | **June 9**: Copyright, Fair Use, and Scholarly Communications / Subcohort sessions |
 | 2 | **June 9**: Subcohort sessions | **June 10** Subcohort sessions | **June 11**: A.I. | **June 12**: Subcohort sessions / 1:1 meetings | **June 13**: 1:1 meetings                                            |
 | 3 | **June 16**: Coworking | | **June 18**: Coworking | | **June 20**: Coworking                                           |
-| 4 | **June 23**: Midterm Presentations |  | **June 25**: Coworking |  |                                         |
+| 4 | **June 23**: Midterm Presentations |  | **June 25**: Guest panel |  |                                         |
 | 5 | **June 30**: Coworking |  | **July 2**: Coworking | |                                         |
 | 6 | **July 7**: Coworking | **July 8**: Coworking | **July 9**: (Optional) Coworking | **July 10**: Summer DH Showcase |                                            |
 
