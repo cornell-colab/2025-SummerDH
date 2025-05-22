@@ -28,3 +28,4 @@ During the session, we will be doing some hands-on experimentation using [ChatGP
 ## Further reading
 Andrea recommends:
 * "[ChatGPT is a Blurry JPEG of the Web"](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web) (Chiang, 2023)
+* Lee, Hao-Ping (Hank), et al. “The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers.” Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems, Association for Computing Machinery, 2025, pp. 1–22. ACM Digital Library, https://doi.org/10.1145/3706598.3713778.
